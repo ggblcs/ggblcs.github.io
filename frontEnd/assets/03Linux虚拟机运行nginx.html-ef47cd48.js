@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-661c262a","path":"/01summary/03Linux%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%BF%90%E8%A1%8Cnginx.html","title":"03 Linux虚拟机运行nginx","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01summary/03Linux虚拟机运行nginx.md"}');export{t as data};

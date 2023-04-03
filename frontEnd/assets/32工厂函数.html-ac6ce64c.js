@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4434e0a0","path":"/04JavaScript/01ECMAScript/32%E5%B7%A5%E5%8E%82%E5%87%BD%E6%95%B0.html","title":"32 工厂函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/32工厂函数.md"}');export{t as data};

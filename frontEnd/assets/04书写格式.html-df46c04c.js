@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-33a79d0a","path":"/04JavaScript/01ECMAScript/04%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F.html","title":"04 书写格式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/04书写格式.md"}');export{t as data};

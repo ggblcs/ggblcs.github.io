@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d191e8e","path":"/20webpack5/07%E5%A4%84%E7%90%86%E8%A7%86%E9%A2%91%E7%AD%89%E8%B5%84%E6%BA%90.html","title":"07 处理视频等资源","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/07处理视频等资源.md"}');export{e as data};

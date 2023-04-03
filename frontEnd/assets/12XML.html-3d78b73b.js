@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-9ca6434a","path":"/06jQueryAndAjax/02Ajax/12XML.html","title":"12 XML","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/12XML.md"}');export{a as data};

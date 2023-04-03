@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as _,R as e}from"./framework-96b046e1.js";const o={},s=e("p",null,"慢就是快,用心学习,厚积薄发!",-1),c=e("p",null,"按照笔记顺序看书， 该更新与书相对应的自动类型推断以及后面的子类型兼容性了。",-1),l=[s,c];function r(a,d){return n(),_("div",null,l)}const f=t(o,[["render",r],["__file","index.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-67d1b3fc","path":"/09webAppDevelop/10%E9%80%82%E9%85%8D%E6%96%B9%E6%A1%88%E4%BA%8C%E7%BB%83%E4%B9%A0.html","title":"10 适配方案二练习","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"09webAppDevelop/10适配方案二练习.md"}');export{e as data};

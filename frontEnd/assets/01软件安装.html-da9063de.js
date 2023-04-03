@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2c76f5fc","path":"/06jQueryAndAjax/02Ajax/01%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85.html","title":"01 软件安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/01软件安装.md"}');export{t as data};

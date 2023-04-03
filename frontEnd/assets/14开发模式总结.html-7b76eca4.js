@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-36252b8d","path":"/20webpack5/14%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93.html","title":"14 开发模式总结","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/14开发模式总结.md"}');export{t as data};

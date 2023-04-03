@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5c762630","path":"/08TypeScript/05%E6%B3%9B%E5%9E%8B/044%E6%B3%9B%E5%9E%8B%E5%87%BD%E6%95%B0.html","title":"044 泛型函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/05泛型/044泛型函数.md"}');export{t as data};

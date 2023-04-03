@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d3cb7db","path":"/21vite/01%E8%AE%A4%E8%AF%86.html","title":"01 认识","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"21vite/01认识.md"}');export{t as data};

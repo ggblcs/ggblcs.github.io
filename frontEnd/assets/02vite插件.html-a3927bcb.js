@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-796d9f4e","path":"/21vite/02vite%E6%8F%92%E4%BB%B6.html","title":"02 vite插件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"21vite/02vite插件.md"}');export{t as data};

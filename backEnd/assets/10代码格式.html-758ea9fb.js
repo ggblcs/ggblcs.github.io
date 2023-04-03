@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f3ca502c","path":"/50Python/01python%E5%9F%BA%E7%A1%80/10%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F.html","title":"10 代码格式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"50Python/01python基础/10代码格式.md"}');export{t as data};

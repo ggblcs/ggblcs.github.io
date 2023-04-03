@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ae503126","path":"/50Python/01python%E5%9F%BA%E7%A1%80/16%E7%BB%A7%E6%89%BF.html","title":"16 继承","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"50Python/01python基础/16继承.md"}');export{t as data};

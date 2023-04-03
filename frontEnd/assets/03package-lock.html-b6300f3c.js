@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-fe9a5c32","path":"/22npm/03package-lock.html","title":"03 package-lock","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"22npm/03package-lock.md"}');export{a as data};

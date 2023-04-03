@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0459cf9e","path":"/04JavaScript/01ECMAScript/23%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.html","title":"23 箭头函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/23箭头函数.md"}');export{t as data};

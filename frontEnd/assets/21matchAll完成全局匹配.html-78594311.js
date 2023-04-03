@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ce8bc4aa","path":"/23RegExp/21matchAll%E5%AE%8C%E6%88%90%E5%85%A8%E5%B1%80%E5%8C%B9%E9%85%8D.html","title":"21 matchAll完成全局匹配","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"23RegExp/21matchAll完成全局匹配.md"}');export{t as data};

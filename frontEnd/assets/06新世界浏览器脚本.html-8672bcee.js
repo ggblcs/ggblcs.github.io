@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ad94f396","path":"/00script/06%E6%96%B0%E4%B8%96%E7%95%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC.html","title":"06 新世界浏览器脚本","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680500163000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"00script/06新世界浏览器脚本.md"}');export{t as data};

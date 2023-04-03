@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e262f9fe","path":"/06jQueryAndAjax/02Ajax/06Ajax%E4%B9%8Bget%E5%85%BC%E5%AE%B9IE.html","title":"06 Ajax之get兼容IE","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/06Ajax之get兼容IE.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as o}from"./framework-96b046e1.js";const _={},c=o("p",null,"my favorite Vue !",-1),s=[c];function r(a,l){return t(),n("div",null,s)}const d=e(_,[["render",r],["__file","index.html.vue"]]);export{d as default};

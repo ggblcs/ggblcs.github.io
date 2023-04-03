@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d19ba05c","path":"/01softUse/04CSDN/03%E5%8A%9F%E8%83%BD%E5%BF%AB%E6%8D%B7%E9%94%AE.html","title":"03 功能快捷键","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/04CSDN/03功能快捷键.md"}');export{t as data};

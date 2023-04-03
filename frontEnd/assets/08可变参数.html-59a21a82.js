@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0891fc14","path":"/05CSSPreprocessor/01Less/08%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0.html","title":"08 可变参数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05CSSPreprocessor/01Less/08可变参数.md"}');export{e as data};

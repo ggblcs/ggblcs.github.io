@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f56d8ae2","path":"/04JavaScript/01ECMAScript/54%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1Math.html","title":"54 内置对象Math","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/54内置对象Math.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1e49669a","path":"/01summary/22js%E6%A8%A1%E5%9D%97%E5%8C%96%E4%BD%BF%E7%94%A8.html","title":"22 js模块化使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01summary/22js模块化使用.md"}');export{t as data};

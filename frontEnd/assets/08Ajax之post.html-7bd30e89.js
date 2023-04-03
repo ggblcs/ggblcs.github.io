@@ -1,0 +1,5 @@
+import{_ as e,p as a,q as t,a1 as s}from"./framework-96b046e1.js";const o={},i=s(`<h1 id="_08-ajax之post" tabindex="-1"><a class="header-anchor" href="#_08-ajax之post" aria-hidden="true">#</a> 08 Ajax之post</h1><p>与get相比主要有三行代码有变化，其它都一样</p><div class="language-JavaScript line-numbers-mode" data-ext="JavaScript"><pre class="language-JavaScript"><code>xhr.open(&quot;POST&quot;,&quot;08-ajax-post.php&quot;,true);
+// 注意点: 以下代码必须放到open和send之间
+xhr.setRequestHeader(&quot;Content-type&quot;,&quot;application/x-www-form-urlencoded&quot;);
+xhr.send(&quot;userName=zs&amp;userPwd=321&quot;);
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol><li>第一行代码需要说明请求为post请求，请求路径后不用加发送的内容。</li><li>第三行代码必须加。</li><li>第四行代码设置发送的内容。</li></ol>`,4),n=[i];function r(d,l){return a(),t("div",null,n)}const u=e(o,[["render",r],["__file","08Ajax之post.html.vue"]]);export{u as default};

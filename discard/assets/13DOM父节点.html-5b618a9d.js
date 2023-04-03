@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-474a7b1f","path":"/05JavaScript/13DOM%E7%88%B6%E8%8A%82%E7%82%B9.html","title":"DOM父节点","lang":"zh-CN","frontmatter":{"title":"DOM父节点"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/13DOM父节点.md"}');export{t as data};

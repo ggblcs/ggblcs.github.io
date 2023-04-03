@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b75a07c","path":"/05CSSPreprocessor/01Less/04%E5%8F%98%E9%87%8F%E6%8F%92%E5%80%BC.html","title":"04 变量插值","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05CSSPreprocessor/01Less/04变量插值.md"}');export{e as data};

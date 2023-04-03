@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ad71dc64","path":"/01softUse/04CSDN/11%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%B3%A8%E8%84%9A.html","title":"11 创建一个注脚","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/04CSDN/11创建一个注脚.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3cbe2664","path":"/05CSSPreprocessor/03fullPage/02%E5%B8%B8%E7%94%A8%E5%B1%9E%E6%80%A7.html","title":"02 常用属性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05CSSPreprocessor/03fullPage/02常用属性.md"}');export{e as data};

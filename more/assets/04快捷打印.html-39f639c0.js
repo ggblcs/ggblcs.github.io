@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28444de9","path":"/01softUse/02VSCode/04%E5%BF%AB%E6%8D%B7%E6%89%93%E5%8D%B0.html","title":"04 快速打印","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/02VSCode/04快捷打印.md"}');export{e as data};

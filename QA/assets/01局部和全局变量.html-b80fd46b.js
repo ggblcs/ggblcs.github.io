@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-240efe48","path":"/01postman/01%E5%B1%80%E9%83%A8%E5%92%8C%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F.html","title":"01 局部和全局变量","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680446041000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01postman/01局部和全局变量.md"}');export{t as data};

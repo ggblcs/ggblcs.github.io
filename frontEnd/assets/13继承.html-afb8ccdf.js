@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0745f2de","path":"/05CSSPreprocessor/01Less/13%E7%BB%A7%E6%89%BF.html","title":"13 继承","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05CSSPreprocessor/01Less/13继承.md"}');export{e as data};

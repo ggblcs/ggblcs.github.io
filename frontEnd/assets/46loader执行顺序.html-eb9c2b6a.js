@@ -1,0 +1,27 @@
+import{_ as s,p as n,q as a,a1 as e}from"./framework-96b046e1.js";const t={},p=e(`<h1 id="_46-loader执行顺序" tabindex="-1"><a class="header-anchor" href="#_46-loader执行顺序" aria-hidden="true">#</a> 46 loader执行顺序</h1><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">/*
+分类
+pre    前置 loader
+normal 普通 loader （默认）
+inline 内联 loader
+post   后置 loader
+*/</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>同时这个顺序也是执行的优先级顺序。</p><p>优先级相同的loader的执行顺序（从右到左，从下到上）</p><p>可通过关键字enforce 来规定 loader 的优先级 （pre normal post）</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token literal-property property">module</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token literal-property property">rules</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">enforce</span><span class="token operator">:</span> <span class="token string">&quot;pre&quot;</span><span class="token punctuation">,</span> <span class="token literal-property property">test</span><span class="token operator">:</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">\\.js$</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token literal-property property">loader</span><span class="token operator">:</span> <span class="token string">&quot;loader&quot;</span> <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token comment">/* 默认为noramal */</span> <span class="token literal-property property">tst</span><span class="token operator">:</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">\\.js$</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token literal-property property">loader</span><span class="token operator">:</span> <span class="token string">&quot;loader2&quot;</span><span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">{</span> <span class="token literal-property property">enforce</span><span class="token operator">:</span> <span class="token string">&quot;post&quot;</span><span class="token punctuation">,</span> <span class="token literal-property property">test</span><span class="token operator">:</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">\\.js$</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">,</span> <span class="token literal-property property">loader</span><span class="token operator">:</span> <span class="token string">&quot;loader3&quot;</span><span class="token punctuation">}</span>
+    <span class="token punctuation">]</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>inline loader 的使用</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> Styles <span class="token keyword">from</span> <span class="token string">&quot;style-loader!css-loader?modules!./style.css&quot;</span>
+<span class="token comment">// 使用css-loader 和style-loader 处理style.css文件，</span>
+<span class="token comment">// 多个loader 之间用! 分开，参数用？连接</span>
+
+<span class="token keyword">import</span> styles <span class="token keyword">from</span> <span class="token string">&quot;!style-loader!css-loader?modules!./style.css&quot;</span>
+<span class="token comment">// 第一个! 不再是分隔符，而是跳过 normal loader</span>
+
+<span class="token keyword">import</span> styles <span class="token keyword">from</span> <span class="token string">&quot;-!style-loader!css-loader?modules!./style.css&quot;</span>
+<span class="token comment">// 第一个 -! 时跳过pre 和normal  loader</span>
+
+<span class="token keyword">import</span> styles <span class="token keyword">from</span> <span class="token string">&quot;!!style-loader!css-loader?modules!./style.css&quot;</span>
+<span class="token comment">// 第一个 !! 时跳过pre normal 和 post loader</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,8),o=[p];function l(r,c){return n(),a("div",null,o)}const d=s(t,[["render",l],["__file","46loader执行顺序.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as a,R as e,t as s}from"./framework-96b046e1.js";const c={},o=e("h1",{id:"_21-html压缩",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_21-html压缩","aria-hidden":"true"},"#"),s(" 21 html压缩")],-1),n=e("p",null,"默认已经压缩了。",-1),r=[o,n];function l(h,d){return _(),a("div",null,r)}const m=t(c,[["render",l],["__file","21html压缩.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48b84dfa","path":"/06jQueryAndAjax/02Ajax/14cookie.html","title":"14 cookie","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/14cookie.md"}');export{e as data};

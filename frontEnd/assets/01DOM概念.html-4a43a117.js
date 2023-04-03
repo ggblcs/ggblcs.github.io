@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ad2c283a","path":"/04JavaScript/02DOM/01DOM%E6%A6%82%E5%BF%B5.html","title":"01 DOM概念","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/02DOM/01DOM概念.md"}');export{t as data};

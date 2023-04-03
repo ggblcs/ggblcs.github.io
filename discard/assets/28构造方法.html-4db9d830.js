@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-678fedf4","path":"/05JavaScript/28%E6%9E%84%E9%80%A0%E6%96%B9%E6%B3%95.html","title":"构造方法","lang":"zh-CN","frontmatter":{"title":"构造方法"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/28构造方法.md"}');export{t as data};

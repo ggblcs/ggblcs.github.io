@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as o}from"./framework-96b046e1.js";const _={},c=o("p",null,"人生苦短，我用Python！",-1),s=[c];function r(a,l){return t(),n("div",null,s)}const i=e(_,[["render",r],["__file","index.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as c,R as e}from"./framework-96b046e1.js";const o={},s=e("p",null,"请联系博主",-1),n=e("p",null,"JavaScript基础文件夹",-1),a=e("p",null,"JavaScript进阶文件夹",-1),l=[s,n,a];function r(i,p){return _(),c("div",null,l)}const u=t(o,[["render",r],["__file","78更多.html.vue"]]);export{u as default};

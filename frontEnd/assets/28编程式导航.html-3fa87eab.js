@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5b587774","path":"/13Vue3/28%E7%BC%96%E7%A8%8B%E5%BC%8F%E5%AF%BC%E8%88%AA.html","title":"28 编程式导航","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/28编程式导航.md"}');export{t as data};

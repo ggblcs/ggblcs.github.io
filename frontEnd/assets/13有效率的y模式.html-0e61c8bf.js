@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5491b52c","path":"/23RegExp/13%E6%9C%89%E6%95%88%E7%8E%87%E7%9A%84y%E6%A8%A1%E5%BC%8F.html","title":"13 有效率的y模式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"23RegExp/13有效率的y模式.md"}');export{t as data};

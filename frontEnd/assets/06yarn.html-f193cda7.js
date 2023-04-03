@@ -1,0 +1,9 @@
+import{_ as n,p as a,q as s,a1 as e}from"./framework-96b046e1.js";const c={},t=e(`<h1 id="_06-yarn" tabindex="-1"><a class="header-anchor" href="#_06-yarn" aria-hidden="true">#</a> 06 yarn</h1><p>萝卜白菜各有所爱 早期mm安装依赖速度慢，版本依赖混乱，为避免这些问题有了yarn，早期的npm，多个依赖有同一个依赖时就会下载多份。npm5版本改进了早期的npm。所以萝卜白菜各有所爱。</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>npom <span class="token function">install</span> <span class="token function">yarn</span> <span class="token parameter variable">-g</span> <span class="token comment"># 安装yarn</span>
+<span class="token function">yarn</span> <span class="token function">install</span>
+<span class="token function">yarn</span> init <span class="token parameter variable">-y</span>
+<span class="token function">yarn</span> <span class="token function">add</span> axios dayjs <span class="token comment"># add相当于npm的install</span>
+<span class="token function">yarn</span> run dev
+<span class="token function">yarn</span> remove <span class="token punctuation">[</span>package<span class="token punctuation">]</span> <span class="token comment"># remove相当于npm的uninstall</span>
+<span class="token function">yarn</span> cache clean
+<span class="token function">yarn</span> <span class="token function">install</span> <span class="token parameter variable">-force</span> ?? <span class="token comment"># 相当于npm rebuild</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>除了个别命令不一样，其余基本一样。</p>`,4),i=[t];function l(p,o){return a(),s("div",null,i)}const d=n(c,[["render",l],["__file","06yarn.html.vue"]]);export{d as default};

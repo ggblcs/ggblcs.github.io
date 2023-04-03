@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a5348540","path":"/11Vue2/02vue%E5%AE%9E%E6%88%98/091js%E8%AE%BE%E7%BD%AE%E8%B7%AF%E7%94%B1.html","title":"91 js设置路由","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"11Vue2/02vue实战/091js设置路由.md"}');export{e as data};

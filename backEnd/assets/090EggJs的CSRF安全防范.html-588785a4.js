@@ -1,0 +1,4 @@
+import{_ as e,p as s,q as a,a1 as n}from"./framework-96b046e1.js";const i={},c=n(`<h1 id="_090-eggjs的csrf安全防范" tabindex="-1"><a class="header-anchor" href="#_090-eggjs的csrf安全防范" aria-hidden="true">#</a> 090 EggJs的CSRF安全防范</h1><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">/*
+想要拿到表单提交的数据, 那么在提交数据的时候必须将服务端给客户端设置的csrfToken也传递过来才可以
+* */</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol><li>如果是动态网页，应该怎么解决由于CSRF导致的访问失败。</li><li>如果是静态网页就使用ajax发送请求，先获取Cookie中的csrfToken，再写入请求头。</li></ol>`,3),r=[c];function l(t,d){return s(),a("div",null,r)}const _=e(i,[["render",l],["__file","090EggJs的CSRF安全防范.html.vue"]]);export{_ as default};

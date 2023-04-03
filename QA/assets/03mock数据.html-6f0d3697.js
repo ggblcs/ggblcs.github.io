@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a4c1b51c","path":"/02fiddler/03mock%E6%95%B0%E6%8D%AE.html","title":"03 mock数据","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"02fiddler/03mock数据.md"}');export{t as data};

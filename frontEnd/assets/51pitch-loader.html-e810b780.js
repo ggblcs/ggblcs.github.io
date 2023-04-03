@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2fe756cd","path":"/20webpack5/51pitch-loader.html","title":"51 pitch-loader","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/51pitch-loader.md"}');export{e as data};

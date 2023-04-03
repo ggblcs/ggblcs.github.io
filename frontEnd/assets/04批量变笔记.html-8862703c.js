@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-07f0622c","path":"/00script/04%E6%89%B9%E9%87%8F%E5%8F%98%E7%AC%94%E8%AE%B0.html","title":"04 批量变笔记","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680500163000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"00script/04批量变笔记.md"}');export{t as data};

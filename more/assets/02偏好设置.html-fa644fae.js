@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-090d386f","path":"/01softUse/03Typora/02%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE.html","title":"02 偏好设置","lang":"zh-CN","frontmatter":{"title":"02 偏好设置"},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/03Typora/02偏好设置.md"}');export{t as data};

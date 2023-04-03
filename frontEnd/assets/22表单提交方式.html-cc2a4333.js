@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8cb18df8","path":"/04JavaScript/02DOM/22%E8%A1%A8%E5%8D%95%E6%8F%90%E4%BA%A4%E6%96%B9%E5%BC%8F.html","title":"22 表单提交方式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/02DOM/22表单提交方式.md"}');export{t as data};

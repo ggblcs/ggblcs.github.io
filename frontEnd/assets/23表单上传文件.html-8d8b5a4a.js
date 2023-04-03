@@ -1,0 +1,1 @@
+import{_,p as t,q as a,R as e,t as s}from"./framework-96b046e1.js";const c={},o=e("h1",{id:"_23-表单上传文件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_23-表单上传文件","aria-hidden":"true"},"#"),s(" 23 表单上传文件")],-1),n=e("p",null,"没学过待总结",-1),r=[o,n];function d(i,l){return t(),a("div",null,r)}const f=_(c,[["render",d],["__file","23表单上传文件.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-11e92f9f","path":"/04JavaScript/01ECMAScript/27%E9%A2%84%E8%A7%A3%E6%9E%90%E7%BB%83%E4%B9%A0.html","title":"27 预解析练习","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/27预解析练习.md"}');export{t as data};

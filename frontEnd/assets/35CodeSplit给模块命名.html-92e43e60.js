@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-44d05899","path":"/20webpack5/35CodeSplit%E7%BB%99%E6%A8%A1%E5%9D%97%E5%91%BD%E5%90%8D.html","title":"35 CodeSplit给模块命名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/35CodeSplit给模块命名.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-60dba7c0","path":"/04JavaScript/01ECMAScript/29%E5%87%BD%E6%95%B0%E4%B8%8E%E6%96%B9%E6%B3%95.html","title":"29 函数与方法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/29函数与方法.md"}');export{t as data};

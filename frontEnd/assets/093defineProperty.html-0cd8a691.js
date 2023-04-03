@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62462a9a","path":"/08TypeScript/10%E8%A3%85%E9%A5%B0%E5%99%A8/093defineProperty.html","title":"093 defineProperty","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/10装饰器/093defineProperty.md"}');export{e as data};

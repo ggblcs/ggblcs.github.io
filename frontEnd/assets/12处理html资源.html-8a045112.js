@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0631aed0","path":"/20webpack5/12%E5%A4%84%E7%90%86html%E8%B5%84%E6%BA%90.html","title":"12 处理html资源","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/12处理html资源.md"}');export{t as data};

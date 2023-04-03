@@ -1,0 +1,5 @@
+import{_ as s,p as a,q as e,a1 as n}from"./framework-96b046e1.js";const l={},i=n(`<h1 id="_042-express实现注册登录" tabindex="-1"><a class="header-anchor" href="#_042-express实现注册登录" aria-hidden="true">#</a> 042 Express实现注册登录</h1><p>学废了。</p><p>安装</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>cnpm <span class="token function">install</span> sequelize <span class="token parameter variable">--save</span>
+cnpm <span class="token function">install</span> mysql2 <span class="token parameter variable">--save</span>
+cnpm <span class="token function">install</span> redis <span class="token parameter variable">--save</span>
+cnpm <span class="token function">install</span> ajv <span class="token parameter variable">--save</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>复制一大堆文件。等等...</p>`,5),r=[i];function t(c,p){return a(),e("div",null,r)}const o=s(l,[["render",t],["__file","042Express实现注册登录.html.vue"]]);export{o as default};

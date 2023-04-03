@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5d4a4ab2","path":"/50Python/01python%E5%9F%BA%E7%A1%80/12while%E5%BE%AA%E7%8E%AF.html","title":"12 while循环","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"50Python/01python基础/12while循环.md"}');export{t as data};

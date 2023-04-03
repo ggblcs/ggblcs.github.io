@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4577937c","path":"/20webpack5/36CodeSplit%E7%BB%9F%E4%B8%80%E5%91%BD%E5%90%8D.html","title":"36 CodeSplit统一命名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/36CodeSplit统一命名.md"}');export{t as data};

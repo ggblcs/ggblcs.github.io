@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as _,R as e}from"./framework-96b046e1.js";const o={},s=e("p",null,"移动端web",-1),c=e("p",null,"jQuery开发",-1),l=e("p",null,"未使用打包工具",-1),r=e("p",null,"网易云音乐",-1),d=[s,c,l,r];function i(a,u){return n(),_("div",null,d)}const h=t(o,[["render",i],["__file","index.html.vue"]]);export{h as default};

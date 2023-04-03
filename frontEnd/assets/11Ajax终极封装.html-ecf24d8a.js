@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-22018a52","path":"/06jQueryAndAjax/02Ajax/11Ajax%E7%BB%88%E6%9E%81%E5%B0%81%E8%A3%85.html","title":"11 Ajax终极封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/11Ajax终极封装.md"}');export{a as data};

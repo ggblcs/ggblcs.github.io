@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f31d1c0","path":"/12VueCode/04%E6%89%8B%E5%86%99Vue-CLI/45%E6%8B%B7%E8%B4%9D%E6%A8%A1%E6%9D%BF.html","title":"45 拷贝模板","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"12VueCode/04手写Vue-CLI/45拷贝模板.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2d5d3ee3","path":"/20webpack5/21html%E5%8E%8B%E7%BC%A9.html","title":"21 html压缩","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/21html压缩.md"}');export{t as data};

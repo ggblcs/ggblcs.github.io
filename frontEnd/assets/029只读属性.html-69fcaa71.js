@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7dbf0f3b","path":"/08TypeScript/03%E6%8E%A5%E5%8F%A3/029%E5%8F%AA%E8%AF%BB%E5%B1%9E%E6%80%A7.html","title":"029 只读属性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/03接口/029只读属性.md"}');export{t as data};

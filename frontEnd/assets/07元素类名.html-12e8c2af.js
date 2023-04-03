@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2067437b","path":"/04JavaScript/02DOM/07%E5%85%83%E7%B4%A0%E7%B1%BB%E5%90%8D.html","title":"07 元素类名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/02DOM/07元素类名.md"}');export{t as data};

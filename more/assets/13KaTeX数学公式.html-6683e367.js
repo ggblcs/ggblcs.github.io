@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d7bbb70","path":"/01softUse/04CSDN/13KaTeX%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.html","title":"13 KaTeX数学公式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/04CSDN/13KaTeX数学公式.md"}');export{e as data};

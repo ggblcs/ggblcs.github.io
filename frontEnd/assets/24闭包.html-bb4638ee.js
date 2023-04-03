@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7a90961a","path":"/04JavaScript/02DOM/24%E9%97%AD%E5%8C%85.html","title":"24 闭包","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/02DOM/24闭包.md"}');export{t as data};

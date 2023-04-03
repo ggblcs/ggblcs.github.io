@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5cc755d2","path":"/50Python/01python%E5%9F%BA%E7%A1%80/22%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE.html","title":"22 存储数据","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"50Python/01python基础/22存储数据.md"}');export{t as data};

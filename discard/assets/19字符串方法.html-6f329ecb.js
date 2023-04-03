@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0efde080","path":"/05JavaScript/19%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%96%B9%E6%B3%95.html","title":"字符串方法","lang":"zh-CN","frontmatter":{"title":"字符串方法"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/19字符串方法.md"}');export{t as data};

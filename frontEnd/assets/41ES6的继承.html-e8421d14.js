@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-80cbd5be","path":"/04JavaScript/01ECMAScript/41ES6%E7%9A%84%E7%BB%A7%E6%89%BF.html","title":"41 ES6的继承","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/41ES6的继承.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6a810ed6","path":"/20webpack5/50raw-loader.html","title":"50 raw-loader","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/50raw-loader.md"}');export{a as data};

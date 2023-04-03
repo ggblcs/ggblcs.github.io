@@ -1,0 +1,10 @@
+import{_ as n,p as s,q as a,a1 as t}from"./framework-96b046e1.js";const e={},c=t(`<h1 id="_59-第一个plugin" tabindex="-1"><a class="header-anchor" href="#_59-第一个plugin" aria-hidden="true">#</a> 59 第一个plugin</h1><ol><li>webpack 加载 webpack.config.js 所有配置，此时就会 <code>new TestPlugin()</code>，执行插件的constructor。</li><li>webpack 创建 compiler 对象。</li><li>遍历所有plugins 插件，调用插件的apply 方法。</li><li>执行剩下编译流程（触发各个hooks事件）。</li></ol><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">class</span> <span class="token class-name">TestPlugin</span> <span class="token punctuation">{</span>
+    <span class="token function">constructor</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&quot;xxx&quot;</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">apply</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">&quot;xxxx&quot;</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+module<span class="token punctuation">.</span>exports <span class="token operator">=</span> TestPlugin
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),p=[c];function o(i,l){return s(),a("div",null,p)}const r=n(e,[["render",o],["__file","59第一个plugin.html.vue"]]);export{r as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6694ab76","path":"/00script/09node%E5%86%99%E6%96%87%E4%BB%B6%E5%B0%81%E8%A3%85.html","title":"09 node写文件封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680500163000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"00script/09node写文件封装.md"}');export{t as data};

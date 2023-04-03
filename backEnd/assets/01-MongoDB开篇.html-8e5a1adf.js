@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-1207e191","path":"/29MongoDB/01-MongoDB%E5%BC%80%E7%AF%87.html","title":"01 -MongoDB开篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"29MongoDB/01-MongoDB开篇.md"}');export{o as data};

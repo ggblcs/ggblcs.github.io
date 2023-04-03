@@ -1,0 +1,9 @@
+import{_ as n,p as s,q as a,a1 as t}from"./framework-96b046e1.js";const e={},o=t(`<h1 id="_04-快速打印" tabindex="-1"><a class="header-anchor" href="#_04-快速打印" aria-hidden="true">#</a> 04 快速打印</h1><p>配置用户代码片段</p><p>文件 - 首选项 - 用户片段 - JavaScript.json</p><div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token string-property property">&quot;Print to console&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token string-property property">&quot;prefix&quot;</span><span class="token operator">:</span> <span class="token string">&quot;log&quot;</span><span class="token punctuation">,</span>
+    <span class="token string-property property">&quot;body&quot;</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+        <span class="token string">&quot;console.log(&#39;$1&#39;);&quot;</span><span class="token punctuation">,</span>
+        <span class="token string">&quot;$2&quot;</span>
+    <span class="token punctuation">]</span><span class="token punctuation">,</span>
+    <span class="token string-property property">&quot;description&quot;</span><span class="token operator">:</span> <span class="token string">&quot;Log output to console&quot;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4),p=[o];function r(i,c){return s(),a("div",null,p)}const u=n(e,[["render",r],["__file","04快捷打印.html.vue"]]);export{u as default};

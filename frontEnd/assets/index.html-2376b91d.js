@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as o}from"./framework-96b046e1.js";const _={},c=o("p",null,"hello Git ！",-1),s=[c];function l(r,a){return t(),n("div",null,s)}const d=e(_,[["render",l],["__file","index.html.vue"]]);export{d as default};

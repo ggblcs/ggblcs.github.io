@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-cbb701b0","path":"/06jQueryAndAjax/02Ajax/07Ajax%E4%B9%8Bget%E5%B0%81%E8%A3%85.html","title":"07 Ajax之get封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/07Ajax之get封装.md"}');export{t as data};

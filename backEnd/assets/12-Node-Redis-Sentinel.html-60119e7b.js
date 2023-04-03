@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ea36d31e","path":"/28redis/12-Node-Redis-Sentinel.html","title":"12 -Node-Redis-Sentinel","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"28redis/12-Node-Redis-Sentinel.md"}');export{e as data};

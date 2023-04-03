@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as o,R as e}from"./framework-96b046e1.js";const c={},r=e("p",null,"three.js",-1),n=e("p",null,"threejs官网：https://threejs.org/ threejs中文教程：https://techbrood.com/threejs/docs/ threejs中文网：http://www.webgl3d.cn/",-1),_=[r,n];function h(l,d){return s(),o("div",null,_)}const i=t(c,[["render",h],["__file","index.html.vue"]]);export{i as default};

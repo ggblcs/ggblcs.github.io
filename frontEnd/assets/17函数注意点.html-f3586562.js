@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c525beda","path":"/04JavaScript/01ECMAScript/17%E5%87%BD%E6%95%B0%E6%B3%A8%E6%84%8F%E7%82%B9.html","title":"17 函数注意点","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/17函数注意点.md"}');export{t as data};

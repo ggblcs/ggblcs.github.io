@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5412713d","path":"/20webpack5/56%E8%87%AA%E5%AE%9A%E4%B9%89fileLoader.html","title":"56 自定义fileLoader","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/56自定义fileLoader.md"}');export{e as data};

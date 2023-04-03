@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f288427c","path":"/05JavaScript/40%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1.html","title":"40内置对象","lang":"zh-CN","frontmatter":{"title":"40内置对象"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/40内置对象.md"}');export{t as data};

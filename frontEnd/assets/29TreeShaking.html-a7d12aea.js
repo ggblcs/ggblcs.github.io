@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b2a4d56a","path":"/20webpack5/29TreeShaking.html","title":"29 TreeShaking","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/29TreeShaking.md"}');export{e as data};

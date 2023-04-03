@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0d0aad6c","path":"/22npm/02packageJSON.html","title":"02 packageJSON","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"22npm/02packageJSON.md"}');export{a as data};

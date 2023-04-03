@@ -1,0 +1,8 @@
+import{_ as n,p as a,q as s,a1 as e}from"./framework-96b046e1.js";const t={},o=e(`<h1 id="_50-raw-loader" tabindex="-1"><a class="header-anchor" href="#_50-raw-loader" aria-hidden="true">#</a> 50 raw-loader</h1><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// raw loader 接收到content 是 Buffer 数据，处理图片，字体，图标等</span>
+module<span class="token punctuation">.</span><span class="token function-variable function">exports</span> <span class="token operator">=</span> <span class="token keyword">function</span> <span class="token punctuation">(</span><span class="token parameter">content</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>content<span class="token punctuation">)</span>
+    <span class="token keyword">return</span> content
+    <span class="token comment">// 里面可用同步或异步的写法</span>
+<span class="token punctuation">}</span>
+module<span class="token punctuation">.</span>exports<span class="token punctuation">.</span>raw<span class="token punctuation">.</span><span class="token boolean">true</span> <span class="token comment">// 加在函数上的属性</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),c=[o];function p(l,i){return a(),s("div",null,c)}const u=n(t,[["render",p],["__file","50raw-loader.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-79397bdc","path":"/20webpack5/17%E6%8F%90%E5%8F%96%E6%88%90%E5%8D%95%E7%8B%ACCSS.html","title":"17 提取成单独CSS","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/17提取成单独CSS.md"}');export{t as data};

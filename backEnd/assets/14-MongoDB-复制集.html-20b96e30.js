@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-e7950ea4","path":"/29MongoDB/14-MongoDB-%E5%A4%8D%E5%88%B6%E9%9B%86.html","title":"14 -MongoDB-复制集","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"29MongoDB/14-MongoDB-复制集.md"}');export{o as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6954e5cf","path":"/04JavaScript/01ECMAScript/16%E5%87%BD%E6%95%B0%E6%A6%82%E5%BF%B5.html","title":"16 函数概念","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/16函数概念.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7eca3edb","path":"/20webpack5/39coreJS.html","title":"39 coreJS","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/39coreJS.md"}');export{e as data};

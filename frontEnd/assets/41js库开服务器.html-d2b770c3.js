@@ -1,0 +1,3 @@
+import{_ as e,p as s,q as a,a1 as n}from"./framework-96b046e1.js";const t={},c=n(`<h1 id="_41-js库开服务器" tabindex="-1"><a class="header-anchor" href="#_41-js库开服务器" aria-hidden="true">#</a> 41 js库开服务器</h1><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> <span class="token function">install</span> serve <span class="token parameter variable">-g</span>
+serve dist <span class="token comment"># 把dist作为根目录开启一个开发服务器</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),i=[c];function r(d,l){return s(),a("div",null,i)}const _=e(t,[["render",r],["__file","41js库开服务器.html.vue"]]);export{_ as default};

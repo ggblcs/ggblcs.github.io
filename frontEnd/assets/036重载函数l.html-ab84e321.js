@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-027f1dd0","path":"/08TypeScript/04%E5%87%BD%E6%95%B0/036%E9%87%8D%E8%BD%BD%E5%87%BD%E6%95%B0l.html","title":"036 重载函数l","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/04函数/036重载函数l.md"}');export{t as data};

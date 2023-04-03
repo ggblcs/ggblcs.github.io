@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51a1d048","path":"/13Vue3/37vuex.html","title":"37 vuex","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/37vuex.md"}');export{e as data};

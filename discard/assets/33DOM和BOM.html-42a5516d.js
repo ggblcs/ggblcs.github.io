@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1fe50042","path":"/05JavaScript/33DOM%E5%92%8CBOM.html","title":"DOM和BOM","lang":"zh-CN","frontmatter":{"title":"DOM和BOM"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/33DOM和BOM.md"}');export{t as data};

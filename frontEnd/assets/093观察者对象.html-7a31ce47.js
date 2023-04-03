@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-afae9f10","path":"/11Vue2/02vue%E5%AE%9E%E6%88%98/093%E8%A7%82%E5%AF%9F%E8%80%85%E5%AF%B9%E8%B1%A1.html","title":"93 观察者对象","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"11Vue2/02vue实战/093观察者对象.md"}');export{e as data};

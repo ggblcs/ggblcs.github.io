@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3104a539","path":"/01softUse/04CSDN/04%E5%90%88%E7%90%86%E5%88%9B%E5%BB%BA%E6%A0%87%E9%A2%98.html","title":"04 合理创建标题","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/04CSDN/04合理创建标题.md"}');export{t as data};

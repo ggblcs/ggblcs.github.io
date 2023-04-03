@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as _,R as e}from"./framework-96b046e1.js";const o={},s=e("p",null,"微信小程序",-1),c=e("p",null,"暂无内容",-1),l=[s,c];function r(a,d){return n(),_("div",null,l)}const f=t(o,[["render",r],["__file","index.html.vue"]]);export{f as default};

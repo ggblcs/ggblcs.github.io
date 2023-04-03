@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b0f4083","path":"/00script/01%E7%AC%94%E8%AE%B0%E6%94%B9%E5%90%8D.html","title":"01 笔记改名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680500163000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"00script/01笔记改名.md"}');export{t as data};

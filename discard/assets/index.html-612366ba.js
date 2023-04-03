@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-28257a07","path":"/06softExam/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06softExam/README.md"}');export{t as data};

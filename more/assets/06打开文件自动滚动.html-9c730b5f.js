@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as _}from"./framework-96b046e1.js";const s={},c=_("p",null,"06 打开文件自动滚动",-1),n=_("p",null,"VScode中实现打开文件时自动自动到目录树中，也可以取消该功能",-1),l=_("p",null,"设置中 搜索 Auto Reveal",-1),a=[c,n,l];function r(d,i){return t(),o("div",null,a)}const p=e(s,[["render",r],["__file","06打开文件自动滚动.html.vue"]]);export{p as default};

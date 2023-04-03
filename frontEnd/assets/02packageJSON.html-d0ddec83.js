@@ -1,0 +1,36 @@
+import{_ as n,p as s,q as a,a1 as t}from"./framework-96b046e1.js";const e={},p=t(`<h1 id="_02-packagejson" tabindex="-1"><a class="header-anchor" href="#_02-packagejson" aria-hidden="true">#</a> 02 packageJSON</h1><div class="language-json line-numbers-mode" data-ext="json"><pre class="language-json"><code><span class="token punctuation">{</span>
+  <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;delete_note_edit&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 项目名</span>
+  <span class="token property">&quot;version&quot;</span><span class="token operator">:</span> <span class="token string">&quot;1.0.0&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 项目版本号</span>
+  <span class="token property">&quot;description&quot;</span><span class="token operator">:</span> <span class="token string">&quot;&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 项目描述</span>
+  <span class="token property">&quot;main&quot;</span><span class="token operator">:</span> <span class="token string">&quot;index.js&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 入口文件</span>
+  <span class="token property">&quot;scripts&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 一些脚本 </span>
+      <span class="token comment">// npm run start 与 npm start等效，因为start时一些常用的特殊命令，还有test、stop、restart</span>
+    <span class="token property">&quot;start&quot;</span><span class="token operator">:</span> <span class="token string">&quot;node ./src/main.js&quot;</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token property">&quot;keywords&quot;</span><span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token comment">// 关键字，别人可以搜索关键字查找到你的项目 </span>
+  <span class="token property">&quot;author&quot;</span><span class="token operator">:</span> <span class="token string">&quot;&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 作者(开源时用到)</span>
+  <span class="token property">&quot;license&quot;</span><span class="token operator">:</span> <span class="token string">&quot;ISC&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 开源协议 (开源时用到)</span>
+  <span class="token property">&quot;devDependencies&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 开发依赖</span>
+    <span class="token property">&quot;axios&quot;</span><span class="token operator">:</span> <span class="token string">&quot;^1.2.4&quot;</span> <span class="token comment">// 1.2.4指定版本 ^1.x.x ~1.2.x</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token property">&quot;dependencies&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 生产依赖</span>
+    <span class="token property">&quot;jquery&quot;</span><span class="token operator">:</span> <span class="token string">&quot;^3.6.3&quot;</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+   <span class="token comment">// 还有一个git respository 指定版本控制工具git</span>
+  <span class="token property">&quot;private&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token comment">// 私有的，不开源，此时npm不能发布他，防止某人误操作(企业开发)</span>
+  <span class="token property">&quot;homepage&quot;</span><span class="token operator">:</span> <span class="token string">&quot;http://xxxx&quot;</span><span class="token punctuation">,</span> <span class="token comment">// 官网首页</span>
+  <span class="token property">&quot;bugs&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">&quot;url&quot;</span><span class="token operator">:</span> <span class="token string">&quot;http://xxx&quot;</span> <span class="token comment">// 提交bug的地方</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token property">&quot;peerDependencies&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 对等依赖 想要用我这个库必须先安装的库，例如：我也依赖vue3.x，需要先安装</span>
+    <span class="token property">&quot;vue&quot;</span><span class="token operator">:</span> <span class="token string">&quot;^3.2.45&quot;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-json line-numbers-mode" data-ext="json"><pre class="language-json"><code><span class="token property">&quot;main&quot;</span><span class="token operator">:</span> <span class="token string">&quot;index.js&quot;</span><span class="token punctuation">,</span> 
+<span class="token comment">// 入口文件 const w = reuqire(&#39;jquery&#39;) jquery为文件夹，并查找入口文件index.js</span>
+<span class="token comment">// index.js为默认入口文件</span>
+<span class="token comment">// 如果node_modules某个依赖没有package.json会自动查找默认文件index.js，找不到报错</span>
+<span class="token property">&quot;peerDependencies&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 对等依赖</span>
+<span class="token comment">// 想要用我这个库必须先安装的库，例如：我(element-plus)也依赖vue3.x，需要先安装</span>
+<span class="token comment">// 对等依赖，必须以另一个宿主包为前提</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote><p>版本号是x.y.z，是遵守了semver版本规范，而npm的包也通常需要遵守semver规范。</p><p>x：主版本号（可能不兼容之前的版本，做了不兼容的API修改）</p><p>y：次版本号（做了向下兼容的功能性新增，新功能增加但兼容之前的版本）</p><p>z：修订号（修复了版本bug）</p></blockquote>`,4),o=[p];function c(l,i){return s(),a("div",null,o)}const r=n(e,[["render",c],["__file","02packageJSON.html.vue"]]);export{r as default};

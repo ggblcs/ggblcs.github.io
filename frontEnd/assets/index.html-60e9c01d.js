@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as s,R as e}from"./framework-96b046e1.js";const _={},o=e("p",null,"ts vue后台管理系统",-1),c=e("p",null,"暂无内容",-1),l=[o,c];function r(a,d){return n(),s("div",null,l)}const u=t(_,[["render",r],["__file","index.html.vue"]]);export{u as default};

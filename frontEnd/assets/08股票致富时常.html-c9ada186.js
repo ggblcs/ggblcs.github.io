@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-71f28d01","path":"/00script/08%E8%82%A1%E7%A5%A8%E8%87%B4%E5%AF%8C%E6%97%B6%E5%B8%B8.html","title":"08 股票致富时常","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680500163000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"00script/08股票致富时常.md"}');export{t as data};

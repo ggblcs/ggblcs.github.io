@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4e5ac9d4","path":"/04JavaScript/02DOM/26%E6%97%B6%E9%97%B4Data.html","title":"26 时间Data","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/02DOM/26时间Data.md"}');export{a as data};

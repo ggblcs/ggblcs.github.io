@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48b93d44","path":"/24Nodejs/04%E5%B7%A5%E5%85%B7/991%E5%B7%A5%E5%85%B7mime.html","title":"991 工具mime","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"24Nodejs/04工具/991工具mime.md"}');export{e as data};

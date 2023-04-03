@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43e2f48f","path":"/13Vue3/02%E4%BD%BF%E7%94%A8vite.html","title":"02 使用vite","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/02使用vite.md"}');export{e as data};

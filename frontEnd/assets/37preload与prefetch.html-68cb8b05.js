@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58a8e928","path":"/20webpack5/37preload%E4%B8%8Eprefetch.html","title":"37 preload与prefetch","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/37preload与prefetch.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4942ab49","path":"/50Python/01python%E5%9F%BA%E7%A1%80/11%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5.html","title":"11 用户输入","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"50Python/01python基础/11用户输入.md"}');export{t as data};

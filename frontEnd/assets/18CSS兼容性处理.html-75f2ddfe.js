@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7284c9e0","path":"/20webpack5/18CSS%E5%85%BC%E5%AE%B9%E6%80%A7%E5%A4%84%E7%90%86.html","title":"18 CSS兼容性处理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"20webpack5/18CSS兼容性处理.md"}');export{e as data};

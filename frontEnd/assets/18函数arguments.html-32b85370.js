@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1b36a546","path":"/04JavaScript/01ECMAScript/18%E5%87%BD%E6%95%B0arguments.html","title":"18 函数arguments","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"04JavaScript/01ECMAScript/18函数arguments.md"}');export{t as data};
