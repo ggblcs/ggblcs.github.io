@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1cd0c810","path":"/13Vue3/44%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4.html","title":"44 命名空间","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/44命名空间.md"}');export{t as data};

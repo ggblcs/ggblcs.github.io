@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-41f5fe36","path":"/13Vue3/33%E8%B7%AF%E7%94%B1%E6%87%92%E5%8A%A0%E8%BD%BD.html","title":"33 路由懒加载","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/33路由懒加载.md"}');export{e as data};

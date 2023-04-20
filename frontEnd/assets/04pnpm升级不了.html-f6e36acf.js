@@ -1,0 +1,1 @@
+import{_ as e,p as _,q as n,R as t}from"./framework-96b046e1.js";const s={},o=t("p",null,"https://zhuanlan.zhihu.com/p/601947173",-1),c=t("p",null,"cmd定位到桌面",-1),p=t("p",null,"pnpm add pnpm@latest -g",-1),l=[o,c,p];function a(d,m){return _(),n("div",null,l)}const h=e(s,[["render",a],["__file","04pnpm升级不了.html.vue"]]);export{h as default};

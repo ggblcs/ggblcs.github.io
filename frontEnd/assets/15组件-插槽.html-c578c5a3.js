@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-01a8772b","path":"/13Vue3/15%E7%BB%84%E4%BB%B6-%E6%8F%92%E6%A7%BD.html","title":"15 组件-插槽","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/15组件-插槽.md"}');export{t as data};

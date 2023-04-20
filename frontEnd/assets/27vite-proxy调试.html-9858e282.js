@@ -1,0 +1,3 @@
+import{_ as e,p as t,q as a,a1 as i}from"./framework-96b046e1.js";const s={},n=i(`<p>调试，看看proxy转发到那个地址上了。</p><p>使用命令</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>vite --debug
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>vite:proxy /dev-api/auth/login -&gt; http://192.168.0.73:8888 +42s
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,4),d=[n];function r(c,l){return t(),a("div",null,d)}const u=e(s,[["render",r],["__file","27vite-proxy调试.html.vue"]]);export{u as default};

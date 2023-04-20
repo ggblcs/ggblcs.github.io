@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as a,R as e,t as s}from"./framework-96b046e1.js";const c={},o=e("h1",{id:"_01-下载安装",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_01-下载安装","aria-hidden":"true"},"#"),s(" 01 下载安装")],-1),n=e("p",null,"略",-1),r=[o,n];function d(i,l){return _(),a("div",null,r)}const f=t(c,[["render",d],["__file","01下载安装.html.vue"]]);export{f as default};
