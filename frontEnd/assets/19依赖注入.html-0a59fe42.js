@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3e27a7d4","path":"/13Vue3/19%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.html","title":"19 依赖注入","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/19依赖注入.md"}');export{a as data};

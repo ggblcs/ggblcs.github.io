@@ -1,0 +1,27 @@
+import{_ as n,p as s,q as a,a1 as t}from"./framework-96b046e1.js";const p={},e=t(`<h1 id="_03-全局互动提示信息" tabindex="-1"><a class="header-anchor" href="#_03-全局互动提示信息" aria-hidden="true">#</a> 03 全局互动提示信息</h1><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> useMessage <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">&#39;/@/hooks/web/useMessage&#39;</span>
+<span class="token keyword">const</span> <span class="token punctuation">{</span> notification<span class="token punctuation">,</span> createErrorModal<span class="token punctuation">,</span> createConfirm<span class="token punctuation">,</span> createMeaage <span class="token punctuation">}</span> <span class="token operator">=</span> <span class="token function">useMessage</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">// 在右上角提示，无确认按钮</span>
+notification<span class="token punctuation">.</span><span class="token function">success</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+    <span class="token literal-property property">message</span><span class="token operator">:</span> <span class="token string">&#39;xx&#39;</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">description</span><span class="token operator">:</span> <span class="token string">&#39;xxx&#39;</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">duration</span><span class="token operator">:</span> <span class="token number">3</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+<span class="token comment">// 中间提示，有关闭</span>
+<span class="token function">createErrorModal</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+    <span class="token literal-property property">title</span><span class="token operator">:</span> <span class="token string">&#39;xxx&#39;</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">content</span><span class="token operator">:</span> <span class="token string">&#39;xxx&#39;</span><span class="token punctuation">,</span>
+    <span class="token function-variable function">getContainer</span><span class="token operator">:</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> document<span class="token punctuation">.</span>body<span class="token punctuation">.</span><span class="token function">querySelector</span><span class="token punctuation">(</span><span class="token string">&#39;.类名&#39;</span><span class="token punctuation">)</span> <span class="token operator">||</span> document<span class="token punctuation">.</span>body
+<span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+<span class="token comment">// 确认，可点击</span>
+<span class="token function">createConfirm</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+    <span class="token literal-property property">iconType</span><span class="token operator">:</span> <span class="token string">&#39;warning&#39;</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">title</span><span class="token operator">:</span> <span class="token string">&quot;提示&quot;</span><span class="token punctuation">,</span>
+    <span class="token literal-property property">content</span><span class="token operator">:</span> <span class="token string">&quot;确认删除？&quot;</span><span class="token punctuation">,</span>
+    <span class="token function">onOk</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span> 确认的回调 <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+<span class="token comment">// 小提示，类似微信toast，在中间。</span>
+createMeaage<span class="token punctuation">.</span><span class="token function">success</span><span class="token punctuation">(</span><span class="token string">&quot;删除成功！&quot;</span><span class="token punctuation">)</span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),o=[e];function c(i,l){return s(),a("div",null,o)}const u=n(p,[["render",c],["__file","03全局互动提示信息.html.vue"]]);export{u as default};

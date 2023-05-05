@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8f6806b8","path":"/13Vue3/13%E7%BB%84%E4%BB%B6%E4%BC%A0%E6%96%B9%E6%B3%95.html","title":"13 组件传方法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/13组件传方法.md"}');export{t as data};

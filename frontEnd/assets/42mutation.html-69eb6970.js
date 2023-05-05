@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3534e6eb","path":"/13Vue3/42mutation.html","title":"42 mutation","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/42mutation.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-596faa14","path":"/13Vue3/40proxy%E4%BB%A3%E7%90%86.html","title":"40 proxy代理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/40proxy代理.md"}');export{a as data};

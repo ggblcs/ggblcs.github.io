@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-18234166","path":"/13Vue3/32%E7%BC%96%E7%A8%8B%E5%BC%8F%E5%AF%BC%E8%88%AA.html","title":"32 编程式导航","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/32编程式导航.md"}');export{a as data};

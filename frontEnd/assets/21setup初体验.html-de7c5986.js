@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4c7c6b10","path":"/13Vue3/21setup%E5%88%9D%E4%BD%93%E9%AA%8C.html","title":"21 setup初体验","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/21setup初体验.md"}');export{e as data};

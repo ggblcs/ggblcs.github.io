@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-186a8244","path":"/13Vue3/37proxy%E4%BB%A3%E7%90%86.html","title":"37 proxy代理","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/37proxy代理.md"}');export{t as data};

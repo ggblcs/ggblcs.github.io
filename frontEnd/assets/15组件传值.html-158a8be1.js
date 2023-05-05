@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-58df39fd","path":"/13Vue3/15%E7%BB%84%E4%BB%B6%E4%BC%A0%E5%80%BC.html","title":"15 组件传值","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/15组件传值.md"}');export{a as data};

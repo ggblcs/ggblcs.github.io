@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0f8c9ca1","path":"/13Vue3/52vuex%E4%B8%8Epinia.html","title":"52 vuex与pinia","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/52vuex与pinia.md"}');export{a as data};

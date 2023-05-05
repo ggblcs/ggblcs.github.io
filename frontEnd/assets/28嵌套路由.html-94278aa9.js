@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-bb8e8012","path":"/13Vue3/28%E5%B5%8C%E5%A5%97%E8%B7%AF%E7%94%B1.html","title":"28 嵌套路由","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/28嵌套路由.md"}');export{e as data};

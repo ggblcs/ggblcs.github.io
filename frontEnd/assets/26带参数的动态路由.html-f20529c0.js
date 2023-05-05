@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0aba0527","path":"/13Vue3/26%E5%B8%A6%E5%8F%82%E6%95%B0%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1.html","title":"26 带参数的动态路由","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681909088000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"13Vue3/26带参数的动态路由.md"}');export{t as data};

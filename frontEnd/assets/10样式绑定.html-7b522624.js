@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-66f8bcc3","path":"/13Vue3/10%E6%A0%B7%E5%BC%8F%E7%BB%91%E5%AE%9A.html","title":"10 样式绑定","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/10样式绑定.md"}');export{a as data};

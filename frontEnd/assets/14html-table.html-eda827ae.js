@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as l,R as s}from"./framework-96b046e1.js";const _={},a=s("p",null,"html-table table（块级元素） 合并单元格，不能用css设置布局，例如，display：flex; 设置后将变为普通盒模型，不能再合并单元格了。",-1),c=[a];function o(n,r){return t(),l("div",null,c)}const d=e(_,[["render",o],["__file","14html-table.html.vue"]]);export{d as default};

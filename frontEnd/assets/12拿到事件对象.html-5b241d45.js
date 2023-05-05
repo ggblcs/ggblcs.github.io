@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-b5041dba","path":"/13Vue3/12%E6%8B%BF%E5%88%B0%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1.html","title":"12 拿到事件对象","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/12拿到事件对象.md"}');export{a as data};
