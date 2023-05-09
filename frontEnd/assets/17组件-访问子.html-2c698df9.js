@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-5f1d0cbc","path":"/13Vue3/17%E7%BB%84%E4%BB%B6-%E8%AE%BF%E9%97%AE%E5%AD%90.html","title":"17 组件-访问子","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682048766000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/17组件-访问子.md"}');export{a as data};

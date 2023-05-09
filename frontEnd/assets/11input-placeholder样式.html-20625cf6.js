@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-61e2a616","path":"/03HTML-CSS/11input-placeholder%E6%A0%B7%E5%BC%8F.html","title":"11 input-placeholder样式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"03HTML-CSS/11input-placeholder样式.md"}');export{e as data};

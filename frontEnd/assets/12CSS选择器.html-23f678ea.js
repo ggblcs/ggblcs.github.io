@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-033ab4c2","path":"/03HTML-CSS/12CSS%E9%80%89%E6%8B%A9%E5%99%A8.html","title":"12 CSS选择器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"03HTML-CSS/12CSS选择器.md"}');export{a as data};

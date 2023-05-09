@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4ab54416","path":"/13Vue3/47pinia.html","title":"47 pinia","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/47pinia.md"}');export{a as data};

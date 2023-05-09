@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-14f2461a","path":"/13Vue3/33%E9%87%8D%E5%AE%9A%E5%90%91%E5%92%8C%E5%88%AB%E5%90%8D.html","title":"33 重定向和别名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/33重定向和别名.md"}');export{a as data};

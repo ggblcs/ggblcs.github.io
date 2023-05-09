@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48f2e82c","path":"/13Vue3/38fetch%E6%95%B0%E6%8D%AE%E8%AF%B7%E6%B1%82.html","title":"38 fetch数据请求","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/38fetch数据请求.md"}');export{e as data};

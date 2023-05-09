@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-07a7feb0","path":"/13Vue3/21watch.html","title":"21 watch","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/21watch.md"}');export{a as data};

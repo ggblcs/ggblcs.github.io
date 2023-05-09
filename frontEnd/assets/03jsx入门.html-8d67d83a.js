@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as _,R as e,t as a}from"./framework-96b046e1.js";const c={},o=e("h1",{id:"_03-jsx入门",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_03-jsx入门","aria-hidden":"true"},"#"),a(" 03 jsx入门")],-1),n=e("p",null,"见02ES6方式创建。",-1),r=[o,n];function d(i,l){return t(),_("div",null,r)}const x=s(c,[["render",d],["__file","03jsx入门.html.vue"]]);export{x as default};
