@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-9942c654","path":"/16Vue3/36%E8%B7%AF%E7%94%B1%E6%87%92%E5%8A%A0%E8%BD%BD.html","title":"36 路由懒加载","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/36路由懒加载.md"}');export{a as data};

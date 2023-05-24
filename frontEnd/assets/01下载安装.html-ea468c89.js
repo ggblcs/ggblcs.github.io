@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-55587ff3","path":"/23nvm/01%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.html","title":"01 下载安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"23nvm/01下载安装.md"}');export{a as data};

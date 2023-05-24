@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-05d5c227","path":"/14React/06class%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85.html","title":"06 class知识补充","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":2}]},"filePathRelative":"14React/06class知识补充.md"}');export{a as data};

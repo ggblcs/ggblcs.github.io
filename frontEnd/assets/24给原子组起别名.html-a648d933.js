@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-663d5b01","path":"/23RegExp/24%E7%BB%99%E5%8E%9F%E5%AD%90%E7%BB%84%E8%B5%B7%E5%88%AB%E5%90%8D.html","title":"24 给原子组起别名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"23RegExp/24给原子组起别名.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-e2a6885a","path":"/34nvm/01%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.html","title":"01 下载安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681640804000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"34nvm/01下载安装.md"}');export{t as data};

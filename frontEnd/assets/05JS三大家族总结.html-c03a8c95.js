@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-410f503b","path":"/01summary/05JS%E4%B8%89%E5%A4%A7%E5%AE%B6%E6%97%8F%E6%80%BB%E7%BB%93.html","title":"05 JS三大家族总结","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/05JS三大家族总结.md"}');export{a as data};

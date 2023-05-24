@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-39dc9b90","path":"/23nvm/02%E9%85%8D%E7%BD%AE%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85.html","title":"02 配置镜像安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"23nvm/02配置镜像安装.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-501f81f0","path":"/14Vue2/03vue%E5%AE%9E%E6%88%98/079%E9%A1%B9%E7%9B%AEhead.html","title":"79 项目head","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/03vue实战/079项目head.md"}');export{e as data};

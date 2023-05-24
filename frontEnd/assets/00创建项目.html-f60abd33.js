@@ -1,1 +1,0 @@
-import{_ as e,p as t,q as _,R as c}from"./framework-96b046e1.js";const s={},o=c("p",null,"npx create-react-app testproject --template typescript",-1),r=[o];function a(n,p){return t(),_("div",null,r)}const i=e(s,[["render",a],["__file","00创建项目.html.vue"]]);export{i as default};

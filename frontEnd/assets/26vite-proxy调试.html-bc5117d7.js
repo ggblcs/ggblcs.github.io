@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-70f776ba","path":"/01summary/26vite-proxy%E8%B0%83%E8%AF%95.html","title":"26 vite-proxy调试","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/26vite-proxy调试.md"}');export{a as data};

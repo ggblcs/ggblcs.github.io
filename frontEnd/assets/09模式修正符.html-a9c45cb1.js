@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-34c80ca7","path":"/24RegExp/09%E6%A8%A1%E5%BC%8F%E4%BF%AE%E6%AD%A3%E7%AC%A6.html","title":"09 模式修正符","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/09模式修正符.md"}');export{a as data};

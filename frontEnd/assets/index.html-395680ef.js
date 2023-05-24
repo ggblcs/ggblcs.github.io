@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-77224ad0","path":"/17UniappWithMiniProgram/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683876260000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"17UniappWithMiniProgram/README.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7fcd9f70","path":"/34nvm/02%E9%85%8D%E7%BD%AE%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85.html","title":"02 配置镜像安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681640804000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"34nvm/02配置镜像安装.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-dde295ce","path":"/01summary/21js%E6%A8%A1%E5%9D%97%E5%8C%96%E4%BD%BF%E7%94%A8.html","title":"21 js模块化使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/21js模块化使用.md"}');export{a as data};

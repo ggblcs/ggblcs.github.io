@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-172fffaa","path":"/01summary/24%E6%96%B0%E6%8A%80%E6%9C%AF.html","title":"24 新技术","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/24新技术.md"}');export{a as data};

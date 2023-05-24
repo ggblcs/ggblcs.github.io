@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c81225ca","path":"/01summary/22vue%E5%90%8E%E5%8F%B0geeker.html","title":"22 vue后台geeker","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/22vue后台geeker.md"}');export{e as data};

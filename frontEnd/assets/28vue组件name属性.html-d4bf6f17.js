@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-313edc0c","path":"/01summary/28vue%E7%BB%84%E4%BB%B6name%E5%B1%9E%E6%80%A7.html","title":"28 vue组件name属性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684822635000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/28vue组件name属性.md"}');export{a as data};

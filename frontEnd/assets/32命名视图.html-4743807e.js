@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-30aa18dc","path":"/16Vue3/32%E5%91%BD%E5%90%8D%E8%A7%86%E5%9B%BE.html","title":"32 命名视图","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/32命名视图.md"}');export{a as data};

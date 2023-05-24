@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-62e79f42","path":"/24RegExp/01%E5%88%9B%E5%BB%BA%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html","title":"01 创建正则表达式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/01创建正则表达式.md"}');export{e as data};

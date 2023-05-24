@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8c608b32","path":"/01summary/10%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1.html","title":"10 工作任务","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/10工作任务.md"}');export{a as data};

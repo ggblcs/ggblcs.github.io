@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-11edbb2a","path":"/16Vue3/01api%E7%9A%84%E5%B0%81%E8%A3%85%E5%90%8E%E4%BD%BF%E7%94%A8.html","title":"01 api的封装后使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/01api的封装后使用.md"}');export{a as data};

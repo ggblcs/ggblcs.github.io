@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-320d4ad9","path":"/13Vue3/32%E5%91%BD%E5%90%8D%E8%A7%86%E5%9B%BE.html","title":"32 命名视图","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683611326000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"13Vue3/32命名视图.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-2d06a762","path":"/23RegExp/20%E7%A6%81%E6%AD%A2%E8%B4%AA%E5%A9%AA.html","title":"20 禁止贪婪","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"23RegExp/20禁止贪婪.md"}');export{t as data};

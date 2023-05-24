@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2a6ee180","path":"/10webAppDevelop/13%E9%80%82%E9%85%8D%E6%96%B9%E6%A1%88%E5%9B%9B.html","title":"13 适配方案四","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"10webAppDevelop/13适配方案四.md"}');export{e as data};

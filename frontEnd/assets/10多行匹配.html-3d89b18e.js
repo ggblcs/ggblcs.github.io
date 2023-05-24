@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-f0d66302","path":"/24RegExp/10%E5%A4%9A%E8%A1%8C%E5%8C%B9%E9%85%8D.html","title":"10 多行匹配","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/10多行匹配.md"}');export{a as data};
