@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5fedf28e","path":"/14Vue2/03vue%E5%AE%9E%E6%88%98/083%E5%AE%89%E8%A3%85fastclick.html","title":"83 安装fastclick","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/03vue实战/083安装fastclick.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-abe890a0","path":"/06JSLibjQueryAndAjax/02Ajax/04%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6.html","title":"04 上传文件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/04上传文件.md"}');export{a as data};

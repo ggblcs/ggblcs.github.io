@@ -1,0 +1,19 @@
+import{_ as n,p as s,q as a,a1 as t}from"./framework-96b046e1.js";const e={},p=t(`<h1 id="_04-在泛型约束中使用类型参数" tabindex="-1"><a class="header-anchor" href="#_04-在泛型约束中使用类型参数" aria-hidden="true">#</a> 04 在泛型约束中使用类型参数</h1><p>lnj</p><div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token comment">/*
+1.在泛型约束中使用类型参数?
+一个泛型被另一个泛型约束, 就叫做泛型约束中使用类型参数
+* */</span>
+<span class="token comment">// 需求: 定义一个函数用于根据指定的key获取对象的value</span>
+<span class="token comment">// interface KeyInterface{</span>
+<span class="token comment">//     [key:string]:any</span>
+<span class="token comment">// }</span>
+<span class="token keyword">let</span> getProps <span class="token operator">=</span> <span class="token operator">&lt;</span><span class="token constant">T</span><span class="token punctuation">,</span> <span class="token constant">K</span> <span class="token keyword">extends</span> <span class="token keyword">keyof</span> <span class="token constant">T</span><span class="token operator">&gt;</span><span class="token punctuation">(</span>obj<span class="token operator">:</span><span class="token constant">T</span><span class="token punctuation">,</span> key<span class="token operator">:</span><span class="token constant">K</span><span class="token punctuation">)</span><span class="token operator">:</span><span class="token builtin">any</span><span class="token operator">=&gt;</span><span class="token punctuation">{</span>
+    <span class="token keyword">return</span> obj<span class="token punctuation">[</span>key<span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">let</span> obj <span class="token operator">=</span> <span class="token punctuation">{</span>
+    a<span class="token operator">:</span><span class="token string">&#39;a&#39;</span><span class="token punctuation">,</span>
+    b<span class="token operator">:</span><span class="token string">&#39;b&#39;</span>
+<span class="token punctuation">}</span>
+<span class="token builtin">console</span><span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token function">getProps</span><span class="token punctuation">(</span>obj<span class="token punctuation">,</span> <span class="token string">&quot;a&quot;</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token builtin">console</span><span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token function">getProps</span><span class="token punctuation">(</span>obj<span class="token punctuation">,</span> <span class="token string">&quot;b&quot;</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token comment">// console.log(getProps(obj, &quot;c&quot;)); // 报错 c 不是key中的一个</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),o=[p];function c(l,i){return s(),a("div",null,o)}const r=n(e,[["render",c],["__file","04在泛型约束中使用类型参数.html.vue"]]);export{r as default};

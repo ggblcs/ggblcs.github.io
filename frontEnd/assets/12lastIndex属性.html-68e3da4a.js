@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-9a9d23f2","path":"/24RegExp/12lastIndex%E5%B1%9E%E6%80%A7.html","title":"12 lastIndex属性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/12lastIndex属性.md"}');export{a as data};

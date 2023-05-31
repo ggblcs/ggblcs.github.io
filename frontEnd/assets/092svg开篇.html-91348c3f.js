@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-6aa484ba","path":"/07JavaScriptNewFeature/7SVG/092svg%E5%BC%80%E7%AF%87.html","title":"92 svg开篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"07JavaScriptNewFeature/7SVG/092svg开篇.md"}');export{a as data};

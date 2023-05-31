@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7ac6977a","path":"/17React/08%E6%97%A0%E7%8A%B6%E6%80%81%E7%BB%84%E4%BB%B6props.html","title":"08 无状态组件props","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"17React/08无状态组件props.md"}');export{a as data};

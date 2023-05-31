@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b68d6b6e","path":"/08TypeScript/06%E7%B1%BB/04%E6%88%90%E5%91%98%E5%AD%98%E5%8F%96%E5%99%A8.html","title":"04 成员存取器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/06类/04成员存取器.md"}');export{t as data};

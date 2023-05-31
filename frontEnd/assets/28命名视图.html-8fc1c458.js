@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77c7e8d5","path":"/16Vue3/28%E5%91%BD%E5%90%8D%E8%A7%86%E5%9B%BE.html","title":"28 命名视图","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/28命名视图.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-de582f36","path":"/08TypeScript/06%E7%B1%BB/050%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0.html","title":"050 成员函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/06类/050成员函数.md"}');export{t as data};

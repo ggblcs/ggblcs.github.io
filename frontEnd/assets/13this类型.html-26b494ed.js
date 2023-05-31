@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3763b378","path":"/08TypeScript/06%E7%B1%BB/13this%E7%B1%BB%E5%9E%8B.html","title":"13 this类型","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/06类/13this类型.md"}');export{t as data};

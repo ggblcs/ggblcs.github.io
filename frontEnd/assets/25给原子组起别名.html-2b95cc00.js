@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-70903c21","path":"/24RegExp/25%E7%BB%99%E5%8E%9F%E5%AD%90%E7%BB%84%E8%B5%B7%E5%88%AB%E5%90%8D.html","title":"25 给原子组起别名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/25给原子组起别名.md"}');export{e as data};

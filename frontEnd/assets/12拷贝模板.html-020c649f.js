@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_12-拷贝模板",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_12-拷贝模板","aria-hidden":"true"},"#"),c(" 12 拷贝模板")],-1),o=[s];function n(d,i){return _(),a("div",null,o)}const l=t(r,[["render",n],["__file","12拷贝模板.html.vue"]]);export{l as default};

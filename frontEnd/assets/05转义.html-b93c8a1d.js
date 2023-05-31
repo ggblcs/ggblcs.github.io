@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6fb93cba","path":"/24RegExp/05%E8%BD%AC%E4%B9%89.html","title":"05 转义","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/05转义.md"}');export{e as data};

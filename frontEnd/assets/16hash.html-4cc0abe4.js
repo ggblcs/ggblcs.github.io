@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5a8d6b6c","path":"/06JSLibjQueryAndAjax/02Ajax/16hash.html","title":"16 hash","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/16hash.md"}');export{a as data};

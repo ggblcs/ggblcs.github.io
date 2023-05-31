@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-ada46460","path":"/06jQueryAndAjax/02Ajax/09Ajax%E4%B9%8Bpost%E5%B0%81%E8%A3%85.html","title":"09 Ajax之post封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/09Ajax之post封装.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-44c9bf2d","path":"/01summary/11axios%E8%AF%B7%E6%B1%82.html","title":"11 axios请求","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/11axios请求.md"}');export{a as data};

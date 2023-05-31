@@ -1,0 +1,1 @@
+import{_,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_06-拉取模块名称",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_06-拉取模块名称","aria-hidden":"true"},"#"),c(" 06 拉取模块名称")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","06拉取模块名称.html.vue"]]);export{l as default};

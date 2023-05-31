@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0447987e","path":"/14Vue2/04%E5%8E%9F%E7%90%86Vue-CLI/12%E6%8B%B7%E8%B4%9D%E6%A8%A1%E6%9D%BF.html","title":"12 拷贝模板","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/04原理Vue-CLI/12拷贝模板.md"}');export{e as data};

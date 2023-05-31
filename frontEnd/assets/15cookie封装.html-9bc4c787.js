@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-667c2d34","path":"/06JSLibjQueryAndAjax/02Ajax/15cookie%E5%B0%81%E8%A3%85.html","title":"15 cookie封装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/15cookie封装.md"}');export{e as data};

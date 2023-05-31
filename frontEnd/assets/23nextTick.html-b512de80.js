@@ -1,0 +1,12 @@
+import{_ as n,p as s,q as a,a1 as e}from"./framework-96b046e1.js";const t={},p=e(`<h1 id="_23-nexttick" tabindex="-1"><a class="header-anchor" href="#_23-nexttick" aria-hidden="true">#</a> 23 nextTick</h1><p>详情见从零玩转vue视频158：歌手界面快捷导航上</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token literal-property property">watch</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+  <span class="token function">list</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">$nextTick</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+      console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>$refs<span class="token punctuation">.</span>group<span class="token punctuation">)</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">,</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>（1）list是从服务器请求的数据</p><p>（2）请求完数据渲染到group中</p><p>（3）当数据请求完后拿到group的渲染后的高度。</p><p>（4）但是，拿不到。</p><p>（5）原因：请求完数据后，数据变了，但group还没生成。</p><p>（6）解决：nextTick。如上所示。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>注意点
+watch只能监听数据的变化，数据变化的时候不一定已经渲染完了。
+所以为了保证是渲染完成之后再去获取，我们可以借助vue的$nextTick方法来实现。
+也就是说在$nextTick回调函数中一定能拿到渲染完成的数据，因为$nextTick的回调函数只有渲染完后才执行。
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,10),c=[p];function i(o,l){return s(),a("div",null,c)}const r=n(t,[["render",i],["__file","23nextTick.html.vue"]]);export{r as default};

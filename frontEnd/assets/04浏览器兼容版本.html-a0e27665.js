@@ -1,0 +1,5 @@
+import{_ as e,p as s,q as a,a1 as n}from"./framework-96b046e1.js";const r={},t=n(`<h1 id="_04-浏览器兼容版本" tabindex="-1"><a class="header-anchor" href="#_04-浏览器兼容版本" aria-hidden="true">#</a> 04 浏览器兼容版本</h1><p>控制兼容什么版本浏览器。</p><p>通过打开文件<code>.browserslistrc</code>。</p><p>直接拷贝下面</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>ie <span class="token operator">&gt;=</span> <span class="token number">8</span>
+Firefox <span class="token operator">&gt;=</span> <span class="token number">3.5</span>
+chrome  <span class="token operator">&gt;=</span> <span class="token number">35</span>
+opera <span class="token operator">&gt;=</span> <span class="token number">11.5</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),c=[t];function o(i,p){return s(),a("div",null,c)}const d=e(r,[["render",o],["__file","04浏览器兼容版本.html.vue"]]);export{d as default};

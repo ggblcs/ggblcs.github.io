@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7af01464","path":"/16Vue3/30%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E4%BC%A0%E5%80%BC.html","title":"30 路由组件传值","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/30路由组件传值.md"}');export{e as data};

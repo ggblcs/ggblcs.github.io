@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as s}from"./framework-96b046e1.js";const _={},o=e("h1",{id:"_06-实现actions方法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_06-实现actions方法","aria-hidden":"true"},"#"),s(" 06 实现actions方法")],-1),n=[o];function r(i,d){return a(),c("div",null,n)}const l=t(_,[["render",r],["__file","06实现actions方法.html.vue"]]);export{l as default};

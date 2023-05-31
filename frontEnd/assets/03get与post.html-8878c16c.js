@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a6282d72","path":"/06JSLibjQueryAndAjax/02Ajax/03get%E4%B8%8Epost.html","title":"03 get与post","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/03get与post.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-484c7aa6","path":"/17React/05%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BB%84%E4%BB%B6.html","title":"05 函数式组件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"17React/05函数式组件.md"}');export{a as data};

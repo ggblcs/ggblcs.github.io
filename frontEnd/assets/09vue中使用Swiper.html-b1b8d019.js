@@ -1,0 +1,56 @@
+import{_ as s,p as n,q as a,a1 as e}from"./framework-96b046e1.js";const p={},t=e(`<h1 id="_09-vue中使用swiper" tabindex="-1"><a class="header-anchor" href="#_09-vue中使用swiper" aria-hidden="true">#</a> 09 vue中使用Swiper</h1><h2 id="_01-安装" tabindex="-1"><a class="header-anchor" href="#_01-安装" aria-hidden="true">#</a> 01 安装</h2><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">npm</span> <span class="token function">install</span> swiper vue-awesome-swiper <span class="token parameter variable">--save</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="_02-导入" tabindex="-1"><a class="header-anchor" href="#_02-导入" aria-hidden="true">#</a> 02 导入</h2><h3 id="_2-1-全局使用" tabindex="-1"><a class="header-anchor" href="#_2-1-全局使用" aria-hidden="true">#</a> 2.1 全局使用</h3><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> Vue <span class="token keyword">from</span> <span class="token string">&#39;vue&#39;</span>
+<span class="token keyword">import</span> VueAwesomeSwiper <span class="token keyword">from</span> <span class="token string">&#39;vue-awesome-swiper&#39;</span>
+
+<span class="token comment">// import style (&gt;= Swiper 6.x)</span>
+<span class="token keyword">import</span> <span class="token string">&#39;swiper/swiper-bundle.css&#39;</span>
+
+<span class="token comment">// import style (&lt;= Swiper 5.x)</span>
+<span class="token keyword">import</span> <span class="token string">&#39;swiper/css/swiper.css&#39;</span>
+
+Vue<span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>VueAwesomeSwiper<span class="token punctuation">,</span> <span class="token comment">/* { default options with global component } */</span><span class="token punctuation">)</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="_2-2-局部使用" tabindex="-1"><a class="header-anchor" href="#_2-2-局部使用" aria-hidden="true">#</a> 2.2 局部使用</h3><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> Swiper<span class="token punctuation">,</span> SwiperSlide<span class="token punctuation">,</span> directive <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">&#39;vue-awesome-swiper&#39;</span>
+
+<span class="token comment">// import style (&gt;= Swiper 6.x)</span>
+<span class="token keyword">import</span> <span class="token string">&#39;swiper/swiper-bundle.css&#39;</span>
+
+<span class="token comment">// import style (&lt;= Swiper 5.x)</span>
+<span class="token keyword">import</span> <span class="token string">&#39;swiper/css/swiper.css&#39;</span> <span class="token comment">//此项目用到</span>
+
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+  <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">&#39;Banner&#39;</span><span class="token punctuation">,</span>
+  <span class="token function">data</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token punctuation">{</span>
+      <span class="token literal-property property">swiperOptions</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token literal-property property">pagination</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+          <span class="token literal-property property">el</span><span class="token operator">:</span> <span class="token string">&#39;.swiper-pagination&#39;</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token literal-property property">loop</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+        <span class="token literal-property property">autoplay</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+          <span class="token literal-property property">delay</span><span class="token operator">:</span> <span class="token number">1000</span><span class="token punctuation">,</span>
+          <span class="token literal-property property">stopOnLastSlide</span><span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token comment">// 播放到最后一个后是否停止播放</span>
+          <span class="token literal-property property">disableOnInteraction</span><span class="token operator">:</span> <span class="token boolean">false</span> <span class="token comment">// 用户操作后是否停止autoplay</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token comment">// 告诉swiper数据是异步加载的。</span>
+        <span class="token literal-property property">observer</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+        <span class="token literal-property property">observeParents</span><span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+        <span class="token literal-property property">observeSlideChildren</span><span class="token operator">:</span> <span class="token boolean">true</span>
+        <span class="token comment">// Some Swiper option/callback...</span>
+      <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token literal-property property">components</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    Swiper<span class="token punctuation">,</span>
+    SwiperSlide
+  <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token literal-property property">directives</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token literal-property property">swiper</span><span class="token operator">:</span> directive
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="_03-覆盖样式" tabindex="-1"><a class="header-anchor" href="#_03-覆盖样式" aria-hidden="true">#</a> 03 覆盖样式</h2><p>如果想覆盖swiper的样式，必须在style中去掉scoped设置全局样式。否则无法覆盖。</p><h2 id="_04-停止轮播bug" tabindex="-1"><a class="header-anchor" href="#_04-停止轮播bug" aria-hidden="true">#</a> 04 停止轮播bug</h2><p>如果是从网络上获取的数据，自动轮播到最后一页就不自动轮播了。老师说的bug，我用的5.X（5.1.0）版本并没有此bug。</p><p>解决方案：</p><blockquote><p>只需在swiper组件上加v-if=&#39;数据.--&#39;</p></blockquote><div class="language-html line-numbers-mode" data-ext="html"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>swiper</span> <span class="token attr-name">ref</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>mySwiper<span class="token punctuation">&quot;</span></span> <span class="token attr-name">:options</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>swiperOptions<span class="token punctuation">&quot;</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>banner<span class="token punctuation">&quot;</span></span> <span class="token attr-name">v-if</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>banners.length<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="_05-指定分页器类名" tabindex="-1"><a class="header-anchor" href="#_05-指定分页器类名" aria-hidden="true">#</a> 05 指定分页器类名</h2><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token literal-property property">pagination</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+  <span class="token literal-property property">el</span><span class="token operator">:</span> <span class="token string">&#39;.swiper-pagination&#39;</span><span class="token punctuation">,</span>
+  <span class="token literal-property property">bulletClass</span><span class="token operator">:</span> <span class="token string">&#39;my-bullet&#39;</span><span class="token punctuation">,</span>
+  <span class="token literal-property property">bulletActiveClass</span><span class="token operator">:</span> <span class="token string">&#39;my-active-bullet&#39;</span>
+<span class="token punctuation">}</span><span class="token punctuation">,</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,17),i=[t];function o(l,r){return n(),a("div",null,i)}const u=s(p,[["render",o],["__file","09vue中使用Swiper.html.vue"]]);export{u as default};

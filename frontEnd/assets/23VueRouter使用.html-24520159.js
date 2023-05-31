@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6922775c","path":"/16Vue3/23VueRouter%E4%BD%BF%E7%94%A8.html","title":"23 VueRouter使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/23VueRouter使用.md"}');export{e as data};

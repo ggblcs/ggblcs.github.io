@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-1076bccc","path":"/17React/02ES6%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA.html","title":"02 ES6方式创建","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"17React/02ES6方式创建.md"}');export{a as data};

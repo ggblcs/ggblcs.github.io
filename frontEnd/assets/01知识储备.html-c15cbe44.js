@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-feef60e6","path":"/14Vue2/06%E5%8E%9F%E7%90%86Vue-router/01%E7%9F%A5%E8%AF%86%E5%82%A8%E5%A4%87.html","title":"01 知识储备","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/06原理Vue-router/01知识储备.md"}');export{e as data};

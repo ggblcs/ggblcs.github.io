@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-cdc819b6","path":"/08TypeScript/04%E5%87%BD%E6%95%B0/04%E9%87%8D%E8%BD%BD%E5%87%BD%E6%95%B0l.html","title":"04 重载函数l","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/04函数/04重载函数l.md"}');export{t as data};

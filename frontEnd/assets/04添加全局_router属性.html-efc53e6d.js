@@ -1,0 +1,1 @@
+import{_ as r,p as t,q as _,R as e,t as o}from"./framework-96b046e1.js";const a={},c=e("h1",{id:"_04-添加全局-router属性",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_04-添加全局-router属性","aria-hidden":"true"},"#"),o(" 04 添加全局$router属性")],-1),s=[c];function n(d,i){return t(),_("div",null,s)}const h=r(a,[["render",n],["__file","04添加全局_router属性.html.vue"]]);export{h as default};

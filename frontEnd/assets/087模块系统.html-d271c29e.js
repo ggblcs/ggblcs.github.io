@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3330b28e","path":"/08TypeScript/10%E8%A3%85%E9%A5%B0%E5%99%A8/087%E6%A8%A1%E5%9D%97%E7%B3%BB%E7%BB%9F.html","title":"087 模块系统","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/10装饰器/087模块系统.md"}');export{t as data};

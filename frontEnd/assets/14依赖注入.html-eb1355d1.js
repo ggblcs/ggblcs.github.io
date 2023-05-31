@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-17ca6c3c","path":"/16Vue3/14%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.html","title":"14 依赖注入","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/14依赖注入.md"}');export{e as data};

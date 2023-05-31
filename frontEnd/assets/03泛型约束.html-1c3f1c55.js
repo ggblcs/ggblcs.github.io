@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c4e4db6c","path":"/08TypeScript/05%E6%B3%9B%E5%9E%8B/03%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F.html","title":"03 泛型约束","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/05泛型/03泛型约束.md"}');export{t as data};

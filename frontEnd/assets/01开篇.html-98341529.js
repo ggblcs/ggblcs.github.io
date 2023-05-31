@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5bbd3e3f","path":"/08TypeScript/01%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/01%E5%BC%80%E7%AF%87.html","title":"01 开篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/01数据类型/01开篇.md"}');export{t as data};

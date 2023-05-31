@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-9c18de00","path":"/24RegExp/23replace%E7%9A%84_%E4%BD%BF%E7%94%A8.html","title":"23 replace的$使用","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/23replace的$使用.md"}');export{e as data};

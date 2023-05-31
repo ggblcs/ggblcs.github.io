@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-27cb8462","path":"/08TypeScript/06%E7%B1%BB/08%E7%BB%A7%E6%89%BF.html","title":"08 继承","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/06类/08继承.md"}');export{t as data};

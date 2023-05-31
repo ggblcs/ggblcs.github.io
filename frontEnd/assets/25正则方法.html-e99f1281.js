@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a14eefec","path":"/24RegExp/25%E6%AD%A3%E5%88%99%E6%96%B9%E6%B3%95.html","title":"25 正则方法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/25正则方法.md"}');export{e as data};

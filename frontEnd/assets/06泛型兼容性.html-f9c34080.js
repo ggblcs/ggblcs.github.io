@@ -1,0 +1,9 @@
+import{_ as s,p as n,q as a,a1 as e}from"./framework-96b046e1.js";const t={},p=e(`<h1 id="_06-泛型兼容性" tabindex="-1"><a class="header-anchor" href="#_06-泛型兼容性" aria-hidden="true">#</a> 06 泛型兼容性</h1><div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token comment">// 泛型只影响使用的部分, 不会影响声明的部分</span>
+<span class="token keyword">interface</span> <span class="token class-name">TestInterface<span class="token operator">&lt;</span><span class="token constant">T</span><span class="token operator">&gt;</span></span> <span class="token punctuation">{</span>
+    <span class="token comment">// age:T;</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">let</span> t1<span class="token operator">:</span> TestInterface<span class="token operator">&lt;</span><span class="token builtin">number</span><span class="token operator">&gt;</span><span class="token punctuation">;</span> <span class="token comment">// age:number</span>
+<span class="token keyword">let</span> t2<span class="token operator">:</span> TestInterface<span class="token operator">&lt;</span><span class="token builtin">string</span><span class="token operator">&gt;</span><span class="token punctuation">;</span> <span class="token comment">// age:string</span>
+t1 <span class="token operator">=</span> t2<span class="token punctuation">;</span>
+t2 <span class="token operator">=</span> t1<span class="token punctuation">;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),o=[p];function c(l,r){return n(),a("div",null,o)}const d=s(t,[["render",c],["__file","06泛型兼容性.html.vue"]]);export{d as default};

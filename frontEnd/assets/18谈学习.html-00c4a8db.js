@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-bc120698","path":"/01summary/18%E8%B0%88%E5%AD%A6%E4%B9%A0.html","title":"18 谈学习","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/18谈学习.md"}');export{a as data};

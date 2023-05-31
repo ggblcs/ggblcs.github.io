@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-da017c40","path":"/16Vue3/34%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E4%BC%A0%E5%80%BC.html","title":"34 路由组件传值","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/34路由组件传值.md"}');export{a as data};

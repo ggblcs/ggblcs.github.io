@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-67bc5a78","path":"/24RegExp/04%E8%BD%AC%E4%B9%89.html","title":"04 转义","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/04转义.md"}');export{a as data};

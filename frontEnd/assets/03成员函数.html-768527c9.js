@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2cf0b57e","path":"/08TypeScript/06%E7%B1%BB/03%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0.html","title":"03 成员函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/06类/03成员函数.md"}');export{t as data};

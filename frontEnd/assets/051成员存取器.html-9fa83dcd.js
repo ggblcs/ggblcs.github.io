@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-05dc4fa5","path":"/08TypeScript/06%E7%B1%BB/051%E6%88%90%E5%91%98%E5%AD%98%E5%8F%96%E5%99%A8.html","title":"051 成员存取器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/06类/051成员存取器.md"}');export{t as data};

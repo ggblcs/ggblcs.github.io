@@ -1,0 +1,1 @@
+import{_,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_01-实现自定义指令",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_01-实现自定义指令","aria-hidden":"true"},"#"),c(" 01 实现自定义指令")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","01实现自定义指令.html.vue"]]);export{l as default};

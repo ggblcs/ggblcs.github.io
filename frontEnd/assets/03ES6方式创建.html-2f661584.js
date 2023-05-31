@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-db3537ca","path":"/17React/03ES6%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA.html","title":"03 ES6方式创建","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"17React/03ES6方式创建.md"}');export{t as data};

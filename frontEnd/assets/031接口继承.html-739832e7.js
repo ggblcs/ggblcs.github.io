@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-b9a696ac","path":"/08TypeScript/03%E6%8E%A5%E5%8F%A3/031%E6%8E%A5%E5%8F%A3%E7%BB%A7%E6%89%BF.html","title":"031 接口继承","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/03接口/031接口继承.md"}');export{t as data};

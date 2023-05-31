@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08ecd25c","path":"/08TypeScript/13%E6%80%BB%E7%BB%93/02tsconfig%E6%80%BB%E7%BB%93.html","title":"02 tsconfig总结","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/13总结/02tsconfig总结.md"}');export{t as data};

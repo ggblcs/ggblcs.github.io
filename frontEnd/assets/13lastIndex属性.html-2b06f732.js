@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30892a08","path":"/24RegExp/13lastIndex%E5%B1%9E%E6%80%A7.html","title":"13 lastIndex属性","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/13lastIndex属性.md"}');export{e as data};

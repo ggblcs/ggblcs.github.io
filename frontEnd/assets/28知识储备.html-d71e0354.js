@@ -1,1 +1,0 @@
-import{_ as t,p as _,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_28-知识储备",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_28-知识储备","aria-hidden":"true"},"#"),c(" 28 知识储备")],-1),o=[s];function n(d,i){return _(),a("div",null,o)}const l=t(r,[["render",n],["__file","28知识储备.html.vue"]]);export{l as default};

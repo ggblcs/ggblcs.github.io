@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-bdf9158c","path":"/06JSLibjQueryAndAjax/03axios/01axios%E8%AF%B7%E6%B1%82.html","title":"01 axios请求","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":2}]},"filePathRelative":"06JSLibjQueryAndAjax/03axios/01axios请求.md"}');export{a as data};

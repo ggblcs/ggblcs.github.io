@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-25c8910e","path":"/06jQueryAndAjax/02Ajax/16hash.html","title":"16 hash","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/16hash.md"}');export{a as data};

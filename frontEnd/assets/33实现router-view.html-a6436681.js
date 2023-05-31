@@ -1,1 +1,0 @@
-import{_ as r,p as t,q as o,R as e,t as _}from"./framework-96b046e1.js";const a={},c=e("h1",{id:"_33-实现router-view",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_33-实现router-view","aria-hidden":"true"},"#"),_(" 33 实现router-view")],-1),s=[c];function i(n,d){return t(),o("div",null,s)}const h=r(a,[["render",i],["__file","33实现router-view.html.vue"]]);export{h as default};

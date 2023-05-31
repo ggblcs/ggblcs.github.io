@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-67c04f02","path":"/14Vue2/03vue%E5%AE%9E%E6%88%98/20vconsole.html","title":"20 vconsole","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/03vue实战/20vconsole.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-cb8cd84c","path":"/08TypeScript/10%E8%A3%85%E9%A5%B0%E5%99%A8/02%E8%A3%85%E9%A5%B0%E5%99%A8.html","title":"02 装饰器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/10装饰器/02装饰器.md"}');export{t as data};

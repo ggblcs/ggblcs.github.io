@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5b23659e","path":"/08TypeScript/06%E7%B1%BB/12%E7%B1%BB%E5%92%8C%E6%B3%9B%E5%9E%8B.html","title":"12 类和泛型","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/06类/12类和泛型.md"}');export{t as data};

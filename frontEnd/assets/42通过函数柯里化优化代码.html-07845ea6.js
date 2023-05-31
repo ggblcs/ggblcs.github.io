@@ -1,1 +1,0 @@
-import{_,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_42-通过函数柯里化优化代码",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_42-通过函数柯里化优化代码","aria-hidden":"true"},"#"),c(" 42 通过函数柯里化优化代码")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","42通过函数柯里化优化代码.html.vue"]]);export{l as default};

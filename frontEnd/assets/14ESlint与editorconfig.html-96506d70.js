@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-803679d4","path":"/01summary/14ESlint%E4%B8%8Eeditorconfig.html","title":"14 ESlint与editorconfig","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"01summary/14ESlint与editorconfig.md"}');export{t as data};

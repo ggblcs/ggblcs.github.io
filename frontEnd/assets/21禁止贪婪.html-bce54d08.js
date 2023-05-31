@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-346cff2f","path":"/24RegExp/21%E7%A6%81%E6%AD%A2%E8%B4%AA%E5%A9%AA.html","title":"21 禁止贪婪","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/21禁止贪婪.md"}');export{e as data};

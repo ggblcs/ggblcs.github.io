@@ -1,1 +1,0 @@
-import{_ as t,p as r,q as s,R as e,t as _}from"./framework-96b046e1.js";const a={},c=e("h1",{id:"_20-实现getters方法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_20-实现getters方法","aria-hidden":"true"},"#"),_(" 20 实现getters方法")],-1),o=[c];function n(d,i){return r(),s("div",null,o)}const l=t(a,[["render",n],["__file","20实现getters方法.html.vue"]]);export{l as default};

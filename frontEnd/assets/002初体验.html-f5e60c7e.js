@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-34fa0182","path":"/08TypeScript/01%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/002%E5%88%9D%E4%BD%93%E9%AA%8C.html","title":"002 初体验","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"08TypeScript/01数据类型/002初体验.md"}');export{t as data};

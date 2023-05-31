@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5fb008d8","path":"/06JSLibjQueryAndAjax/02Ajax/14cookie.html","title":"14 cookie","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/14cookie.md"}');export{e as data};

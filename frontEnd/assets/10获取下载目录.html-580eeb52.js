@@ -1,0 +1,1 @@
+import{_,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_10-获取下载目录",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_10-获取下载目录","aria-hidden":"true"},"#"),c(" 10 获取下载目录")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","10获取下载目录.html.vue"]]);export{l as default};

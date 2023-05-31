@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-25c3e492","path":"/06jQueryAndAjax/02Ajax/08Ajax%E4%B9%8Bpost.html","title":"08 Ajax之post","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680497784000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"06jQueryAndAjax/02Ajax/08Ajax之post.md"}');export{t as data};

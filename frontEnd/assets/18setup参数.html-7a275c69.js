@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-95d3c7c0","path":"/16Vue3/18setup%E5%8F%82%E6%95%B0.html","title":"18 setup参数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/18setup参数.md"}');export{e as data};

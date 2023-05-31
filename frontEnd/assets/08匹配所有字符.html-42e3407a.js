@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-b65303b6","path":"/24RegExp/08%E5%8C%B9%E9%85%8D%E6%89%80%E6%9C%89%E5%AD%97%E7%AC%A6.html","title":"08 匹配所有字符","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1684898442000,"contributors":[{"name":"zhaohuanyi","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/08匹配所有字符.md"}');export{a as data};

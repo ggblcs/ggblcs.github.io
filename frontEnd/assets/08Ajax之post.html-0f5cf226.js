@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c6bd5a18","path":"/06JSLibjQueryAndAjax/02Ajax/08Ajax%E4%B9%8Bpost.html","title":"08 Ajax之post","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685243650000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"06JSLibjQueryAndAjax/02Ajax/08Ajax之post.md"}');export{a as data};

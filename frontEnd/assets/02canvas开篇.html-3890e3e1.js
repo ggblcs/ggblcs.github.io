@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c030aca6","path":"/07JavaScriptNewFeature/6canvas/02canvas%E5%BC%80%E7%AF%87.html","title":"02 canvas开篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"07JavaScriptNewFeature/6canvas/02canvas开篇.md"}');export{a as data};

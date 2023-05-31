@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0a3c1696","path":"/08TypeScript/05%E6%B3%9B%E5%9E%8B/06%E6%B3%9B%E5%9E%8B%E6%8E%A5%E5%8F%A3.html","title":"06 泛型接口","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"08TypeScript/05泛型/06泛型接口.md"}');export{t as data};

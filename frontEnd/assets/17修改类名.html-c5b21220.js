@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ad8e7d8","path":"/14Vue2/03vue%E5%AE%9E%E6%88%98/17%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%90%8D.html","title":"17 修改类名","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/03vue实战/17修改类名.md"}');export{e as data};

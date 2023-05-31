@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-007caa6c","path":"/16Vue3/24%E5%B8%A6%E5%8F%82%E6%95%B0%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1.html","title":"24 带参数的动态路由","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"16Vue3/24带参数的动态路由.md"}');export{a as data};

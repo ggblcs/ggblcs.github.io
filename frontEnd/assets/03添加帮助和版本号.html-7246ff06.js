@@ -1,0 +1,1 @@
+import{_,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_03-添加帮助和版本号",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_03-添加帮助和版本号","aria-hidden":"true"},"#"),c(" 03 添加帮助和版本号")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","03添加帮助和版本号.html.vue"]]);export{l as default};

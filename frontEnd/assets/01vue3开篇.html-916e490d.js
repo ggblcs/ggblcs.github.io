@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d50c0d9e","path":"/14Vue2/01vue3%E5%BC%80%E7%AF%87/01vue3%E5%BC%80%E7%AF%87.html","title":"01 vue3开篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"14Vue2/01vue3开篇/01vue3开篇.md"}');export{e as data};
