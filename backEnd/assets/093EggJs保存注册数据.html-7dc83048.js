@@ -1,1 +1,0 @@
-import{_,p as s,q as t,R as e,t as a}from"./framework-96b046e1.js";const c={},r=e("h1",{id:"_093-eggjs保存注册数据",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_093-eggjs保存注册数据","aria-hidden":"true"},"#"),a(" 093 EggJs保存注册数据")],-1),o=[r];function n(d,i){return s(),t("div",null,o)}const h=_(c,[["render",n],["__file","093EggJs保存注册数据.html.vue"]]);export{h as default};

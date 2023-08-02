@@ -1,1 +1,0 @@
-import{_ as t,p as _,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"_099-备用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_099-备用","aria-hidden":"true"},"#"),c(" 099 备用")],-1),o=[s];function n(d,i){return _(),a("div",null,o)}const l=t(r,[["render",n],["__file","099备用.html.vue"]]);export{l as default};

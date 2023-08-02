@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-680d619b","path":"/25nodeThreeFramework/05Egg/085EggJs%E5%9B%BD%E9%99%85%E5%8C%96.html","title":"085 EggJs国际化","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"25nodeThreeFramework/05Egg/085EggJs国际化.md"}');export{e as data};

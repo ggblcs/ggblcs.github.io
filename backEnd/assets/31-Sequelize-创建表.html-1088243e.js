@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6809382a","path":"/27MySQL/31-Sequelize-%E5%88%9B%E5%BB%BA%E8%A1%A8.html","title":"31 -Sequelize-创建表","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690965266000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"27MySQL/31-Sequelize-创建表.md"}');export{e as data};

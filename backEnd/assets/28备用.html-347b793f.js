@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as a,R as e,t as s}from"./framework-96b046e1.js";const c={},o=e("h1",{id:"_28-备用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_28-备用","aria-hidden":"true"},"#"),s(" 28 备用")],-1),n=e("p",null,"暂无内容",-1),r=[o,n];function d(i,l){return _(),a("div",null,r)}const f=t(c,[["render",d],["__file","28备用.html.vue"]]);export{f as default};

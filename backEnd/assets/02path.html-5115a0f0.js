@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-fb64a3ba","path":"/24Nodejs/02%E6%A0%B8%E5%BF%83API/02path.html","title":"02 path","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690965266000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24Nodejs/02核心API/02path.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-126c87bc","path":"/24Nodejs/04%E5%B7%A5%E5%85%B7/01%E5%B7%A5%E5%85%B7mime.html","title":"01 工具mime","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690965266000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24Nodejs/04工具/01工具mime.md"}');export{e as data};

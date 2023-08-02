@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3c0654dd","path":"/24Nodejs/02%E6%A0%B8%E5%BF%83API/08path.html","title":"08 path路径模块","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680495715000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"24Nodejs/02核心API/08path.md"}');export{t as data};

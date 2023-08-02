@@ -1,0 +1,18 @@
+import{_ as n,p as s,q as a,a1 as e}from"./framework-96b046e1.js";const t={},p=e(`<h1 id="_04-修改图片尺寸" tabindex="-1"><a class="header-anchor" href="#_04-修改图片尺寸" aria-hidden="true">#</a> 04 修改图片尺寸</h1><div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">import</span> cv2 <span class="token keyword">as</span> cv
+img<span class="token operator">=</span>cv<span class="token punctuation">.</span>imread<span class="token punctuation">(</span><span class="token string">&#39;lena.jpg&#39;</span><span class="token punctuation">)</span>
+cv<span class="token punctuation">.</span>imshow<span class="token punctuation">(</span><span class="token string">&#39;img&#39;</span><span class="token punctuation">,</span>img<span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">&#39;原来图片的形状&#39;</span><span class="token punctuation">,</span>img<span class="token punctuation">.</span>shape<span class="token punctuation">)</span>
+<span class="token comment"># resize_img=cv.resize(img,dsize=(200,240))</span>
+resize_img<span class="token operator">=</span>cv<span class="token punctuation">.</span>resize<span class="token punctuation">(</span>img<span class="token punctuation">,</span>dsize<span class="token operator">=</span><span class="token punctuation">(</span><span class="token number">600</span><span class="token punctuation">,</span><span class="token number">560</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">&#39;修改后图片的形状：&#39;</span><span class="token punctuation">,</span>resize_img<span class="token punctuation">.</span>shape<span class="token punctuation">)</span>
+cv<span class="token punctuation">.</span>imshow<span class="token punctuation">(</span><span class="token string">&#39;resize_img&#39;</span><span class="token punctuation">,</span>resize_img<span class="token punctuation">)</span>
+
+<span class="token comment"># cv.waitKey(0)</span>
+<span class="token comment">#只有输入q时候，退出</span>
+<span class="token keyword">while</span> <span class="token boolean">True</span><span class="token punctuation">:</span>
+    <span class="token keyword">if</span> <span class="token builtin">ord</span><span class="token punctuation">(</span><span class="token string">&#39;q&#39;</span><span class="token punctuation">)</span><span class="token operator">==</span>cv<span class="token punctuation">.</span>waitKey<span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">break</span>
+
+cv<span class="token punctuation">.</span>destroyAllWindows<span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),c=[p];function i(o,l){return s(),a("div",null,c)}const r=n(t,[["render",i],["__file","04修改图片尺寸.html.vue"]]);export{r as default};

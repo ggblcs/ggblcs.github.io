@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-df6fddc0","path":"/27MySQL/29-orm-Sequelize.html","title":"29 -orm-Sequelize","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690965266000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"27MySQL/29-orm-Sequelize.md"}');export{e as data};
