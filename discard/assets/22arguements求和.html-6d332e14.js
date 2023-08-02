@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-95c84b40","path":"/05JavaScript/22arguements%E6%B1%82%E5%92%8C.html","title":"arguements求和","lang":"zh-CN","frontmatter":{"title":"arguements求和"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/22arguements求和.md"}');export{t as data};

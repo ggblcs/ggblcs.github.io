@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-5ddc9ff2","path":"/05JavaScript/16%E6%A0%87%E7%AD%BE%E7%9A%84%E5%88%9B%E5%BB%BA.html","title":"标签的创建","lang":"zh-CN","frontmatter":{"title":"标签的创建"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/16标签的创建.md"}');export{t as data};

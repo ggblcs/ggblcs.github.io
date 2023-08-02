@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c9c35968","path":"/04CJJ/06%E9%9A%8F%E6%9C%BA%E6%95%B0.html","title":"06 随机数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"04CJJ/06随机数.md"}');export{t as data};

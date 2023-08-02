@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6d52ac74","path":"/01softUse/05more/03%E7%99%BD%E9%B2%B8%E5%8A%A0%E9%80%9F.html","title":"03  白鲸加速","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1680501059000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"01softUse/05more/03白鲸加速.md"}');export{t as data};

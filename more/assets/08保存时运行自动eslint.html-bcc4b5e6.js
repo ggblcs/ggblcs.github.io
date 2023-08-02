@@ -1,0 +1,5 @@
+import{_ as n,p as s,q as e,a1 as a}from"./framework-96b046e1.js";const t={},i=a(`<h1 id="_08-保存时运行自动eslint" tabindex="-1"><a class="header-anchor" href="#_08-保存时运行自动eslint" aria-hidden="true">#</a> 08 保存时运行自动eslint</h1><p>本文禁止新增内容，只是一个快捷方式</p><p>详见 14 eslint与editorconfig</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// 首选项中 setting.json eslint配置，保存时自动运行lint修复</span>
+<span class="token string-property property">&quot;editor.codeActionsOnSave&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token string-property property">&quot;source.fixAll.eslint&quot;</span><span class="token operator">:</span> <span class="token boolean">true</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4),o=[i];function r(l,c){return s(),e("div",null,o)}const d=n(t,[["render",r],["__file","08保存时运行自动eslint.html.vue"]]);export{d as default};

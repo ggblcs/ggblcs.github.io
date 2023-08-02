@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-08c5d1c0","path":"/05JavaScript/25%E5%AF%B9%E8%B1%A1.html","title":"对象","lang":"zh-CN","frontmatter":{"title":"对象"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/25对象.md"}');export{t as data};

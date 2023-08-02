@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-27b55113","path":"/05JavaScript/72pj%E4%BA%8B%E4%BB%B6%E5%AF%B9%E8%B1%A1event.html","title":"pj事件对象","lang":"zh-CN","frontmatter":{"title":"pj事件对象"},"headers":[],"git":{"updatedTime":1680451572000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"05JavaScript/72pj事件对象event.md"}');export{t as data};
