@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5ee0774f","path":"/25threeJS/01bilibili/02%E4%BD%BF%E7%94%A8parcel.html","title":"02 使用parcel","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685806065000,"contributors":[{"name":"zhy","email":"2625402133@qq.com","commits":1}]},"filePathRelative":"25threeJS/01bilibili/02使用parcel.md"}');export{e as data};

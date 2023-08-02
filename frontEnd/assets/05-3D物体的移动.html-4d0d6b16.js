@@ -1,0 +1,11 @@
+import{_ as n,p as s,q as a,a1 as e}from"./framework-96b046e1.js";const t={},p=e(`<h1 id="_05-3d物体的移动" tabindex="-1"><a class="header-anchor" href="#_05-3d物体的移动" aria-hidden="true">#</a> 05 -3D物体的移动</h1><p>设置物体的位置</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// cube.position.set(5, 0, 0)</span>
+<span class="token keyword">function</span> <span class="token function">render</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    cube<span class="token punctuation">.</span>position<span class="token punctuation">.</span>x <span class="token operator">+=</span> <span class="token number">0.01</span>
+    <span class="token keyword">if</span> <span class="token punctuation">(</span>cube<span class="token punctuation">.</span>position<span class="token punctuation">.</span>x <span class="token operator">&gt;</span> <span class="token number">5</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        cube<span class="token punctuation">.</span>position<span class="token punctuation">.</span>x <span class="token operator">=</span> <span class="token number">0</span>
+    <span class="token punctuation">}</span>
+    <span class="token function">requestAnimationFrame</span><span class="token punctuation">(</span>render<span class="token punctuation">)</span>
+    <span class="token comment">// animate()</span>
+    renderer<span class="token punctuation">.</span><span class="token function">render</span><span class="token punctuation">(</span>scene<span class="token punctuation">,</span> camera<span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),c=[p];function o(i,u){return s(),a("div",null,c)}const r=n(t,[["render",o],["__file","05-3D物体的移动.html.vue"]]);export{r as default};

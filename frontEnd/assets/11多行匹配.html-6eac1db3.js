@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-e20bf8c4","path":"/24RegExp/11%E5%A4%9A%E8%A1%8C%E5%8C%B9%E9%85%8D.html","title":"11 多行匹配","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1685504242000,"contributors":[{"name":"赵桓熠","email":"zhaohuanyi@sundear.com","commits":1}]},"filePathRelative":"24RegExp/11多行匹配.md"}');export{e as data};
