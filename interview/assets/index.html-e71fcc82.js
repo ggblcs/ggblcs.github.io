@@ -1,0 +1,1 @@
+import{_ as o,M as r,p as c,q as a,R as e,t as n,N as s}from"./framework-96b046e1.js";const _={},l={href:"https://www.mujicv.com/",target:"_blank",rel:"noopener noreferrer"};function i(d,m){const t=r("ExternalLinkIcon");return c(),a("div",null,[e("p",null,[n("木及简历"),e("a",l,[n("打开链接"),s(t)])])])}const f=o(_,[["render",i],["__file","index.html.vue"]]);export{f as default};
